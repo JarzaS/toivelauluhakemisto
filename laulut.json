@@ -697,7 +697,9 @@
       "How can I just let you walk away",
       "Ja sä vaan lähdit käveleen",
       "Kato mitä sä teit"
-    ]
+    ],
+    "composer": "Phil Collins",
+    "lyricist": "Phil Collins"
   },
   {
     "id": "K09-S106",
@@ -974,7 +976,9 @@
       "Muut on vain ilmaa, en heitä nää",
       "No one to talk with, all by myself",
       "Voit minuun luottaa"
-    ]
+    ],
+    "composer": "Fats Waller; Harry Brooks",
+    "lyricist": "Andy Razaf"
   },
   {
     "id": "K16-S286",
@@ -1125,7 +1129,8 @@
     "aliases": [
       "Akselin ja Elinan häävalssi",
       "Kauan katsoin sinua syvälle silmiin"
-    ]
+    ],
+    "composer": "Heikki Aaltoila"
   },
   {
     "id": "K08-S030",
