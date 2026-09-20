@@ -110,7 +110,9 @@
       "A Time for Us",
       "Kun aika on",
       "Time for Us, A"
-    ]
+    ],
+    "composer": "Nino Rota",
+    "lyricist": "Larry Kusik; Eddie Snyder"
   },
   {
     "id": "K10-S273",
@@ -420,7 +422,9 @@
       "Aamuöiseen sateeseen",
       "Early Morning Rain",
       "In the early morning rain"
-    ]
+    ],
+    "composer": "Gordon Lightfoot",
+    "lyricist": "Gordon Lightfoot"
   },
   {
     "id": "K13-S128",
@@ -1017,7 +1021,9 @@
       "Ajan yössä, tulen tuolta kaukaa",
       "City of New Orleans",
       "Hyvää huomenta, Suomi"
-    ]
+    ],
+    "composer": "Steve Goodman",
+    "lyricist": "Steve Goodman"
   },
   {
     "id": "K17-S122",
@@ -1028,7 +1034,9 @@
       "Come gather ’round people",
       "Nyt kuuntele, ihminen, aikasi on",
       "Times They Are A-changin’, The"
-    ]
+    ],
+    "composer": "Bob Dylan",
+    "lyricist": "Bob Dylan"
   },
   {
     "id": "K15-S019",
@@ -1344,7 +1352,9 @@
       "California Dreamin’",
       "Kalajoen hiekat",
       "On hiekka polttavaa"
-    ]
+    ],
+    "composer": "John Phillips; Michelle Phillips",
+    "lyricist": "John Phillips; Michelle Phillips"
   },
   {
     "id": "K13-S230",
@@ -1715,7 +1725,9 @@
       "And here’s to you, Mrs. Robinson",
       "Mrs. Robinson",
       "Näin ehkä on, Mrs. Robinson"
-    ]
+    ],
+    "composer": "Paul Simon",
+    "lyricist": "Paul Simon"
   },
   {
     "id": "K08-S236",
@@ -1738,7 +1750,9 @@
       "Ja näin kun katseen luo",
       "Minun tieni",
       "My Way"
-    ]
+    ],
+    "composer": "Claude François; Jacques Revaux",
+    "lyricist": "Gilles Thibaut; Paul Anka"
   },
   {
     "id": "K11-S236",
@@ -1807,7 +1821,9 @@
     "page": 263,
     "aliases": [
       "Angie"
-    ]
+    ],
+    "composer": "Mick Jagger; Keith Richards",
+    "lyricist": "Mick Jagger; Keith Richards"
   },
   {
     "id": "K12-S232",
@@ -2698,7 +2714,9 @@
       "Che bella cosa",
       "O sole mio",
       "On ihanaa, kun aurinkoinen paistaa"
-    ]
+    ],
+    "composer": "Eduardo di Capua; Alfredo Mazzucchi",
+    "lyricist": "Giovanni Capurro"
   },
   {
     "id": "K20-S068",
@@ -3346,7 +3364,9 @@
     "page": 236,
     "aliases": [
       "Besame mucho"
-    ]
+    ],
+    "composer": "Consuelo Velázquez",
+    "lyricist": "Consuelo Velázquez"
   },
   {
     "id": "K20-S102",
@@ -3473,7 +3493,9 @@
       "How many roads must a man",
       "Oi, kuinka kauan tuo lintunen saa",
       "Tuulelta vastauksen saan"
-    ]
+    ],
+    "composer": "Bob Dylan",
+    "lyricist": "Bob Dylan"
   },
   {
     "id": "K20-S076",
@@ -3536,7 +3558,9 @@
     "aliases": [
       "Blue Suede Shoes",
       "Well, it’s one for the money"
-    ]
+    ],
+    "composer": "Carl Perkins",
+    "lyricist": "Carl Perkins"
   },
   {
     "id": "K12-S256",
@@ -3873,7 +3897,9 @@
       "Can you hear the drums, Fernando",
       "Fernando",
       "Kuule rummut nuo, Fernando"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Benny Andersson; Björn Ulvaeus"
   },
   {
     "id": "K22-S216",
@@ -3902,7 +3928,9 @@
       "Candle in the Wind",
       "Goodbye, Norma Jean",
       "Näkemiin, Norma Jean"
-    ]
+    ],
+    "composer": "Elton John",
+    "lyricist": "Bernie Taupin"
   },
   {
     "id": "K24-S086",
@@ -4468,7 +4496,9 @@
       "Syliin sun",
       "Tiedän sen, miksi lintusen laulu on iloinen",
       "Why do birds suddenly appear"
-    ]
+    ],
+    "composer": "Burt Bacharach",
+    "lyricist": "Hal David"
   },
   {
     "id": "K09-S132",
@@ -4797,7 +4827,9 @@
       "Prinsessa",
       "Toisten taa näin mä jään",
       "You can dance, you can jive"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Benny Andersson; Björn Ulvaeus; Stig Anderson"
   },
   {
     "id": "K19-S278",
@@ -4805,7 +4837,9 @@
     "page": 278,
     "aliases": [
       "Daniel"
-    ]
+    ],
+    "composer": "Elton John",
+    "lyricist": "Bernie Taupin"
   },
   {
     "id": "K21-S026",
@@ -5196,7 +5230,9 @@
       "Desmond has his barrow",
       "Elämältä halua en enempää",
       "Ob-La-Di, Ob-La-Da"
-    ]
+    ],
+    "composer": "John Lennon; Paul McCartney",
+    "lyricist": "John Lennon; Paul McCartney"
   },
   {
     "id": "K18-S319",
@@ -5204,7 +5240,9 @@
     "page": 319,
     "aliases": [
       "Desperado"
-    ]
+    ],
+    "composer": "Glenn Frey; Don Henley",
+    "lyricist": "Glenn Frey; Don Henley"
   },
   {
     "id": "K18-S324",
@@ -5686,7 +5724,9 @@
       "En unta saa, siis valvon",
       "Nääthän unta puolestain",
       "Stars shining bright above you"
-    ]
+    ],
+    "composer": "Fabian Andre; Wilbur Schwandt",
+    "lyricist": "Gus Kahn"
   },
   {
     "id": "K22-S098",
@@ -8386,7 +8426,9 @@
       "Monta runoa tehdään tekstein",
       "Poets often use many words",
       "Voin sanoa sen toisinkin"
-    ]
+    ],
+    "composer": "Bart Howard",
+    "lyricist": "Bart Howard"
   },
   {
     "id": "K08-S220",
@@ -8737,7 +8779,9 @@
       "Georgia on My Mind",
       "Georgia, Georgia, maa auringon",
       "Muistelen Georgiaa"
-    ]
+    ],
+    "composer": "Hoagy Carmichael",
+    "lyricist": "Stuart Gorrell"
   },
   {
     "id": "K07-S214",
@@ -8904,7 +8948,9 @@
       "Goodbye Joe, me gotta go",
       "Jambalaya",
       "Sataman mustimman krouvi muuan"
-    ]
+    ],
+    "composer": "Hank Williams",
+    "lyricist": "Hank Williams"
   },
   {
     "id": "K20-S257",
@@ -8915,7 +8961,9 @@
       "Ketään mä uskonut en",
       "Kiviset kadut",
       "When are you gonna come down"
-    ]
+    ],
+    "composer": "Elton John",
+    "lyricist": "Bernie Taupin"
   },
   {
     "id": "K15-S126",
@@ -9467,7 +9515,9 @@
     "aliases": [
       "Happy New Year",
       "No more champagne"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Benny Andersson; Björn Ulvaeus"
   },
   {
     "id": "K12-S282",
@@ -10152,7 +10202,9 @@
       "Hiljaisuuden äänet",
       "Hiljaisuutta tervehdin",
       "Sound of Silence, The"
-    ]
+    ],
+    "composer": "Paul Simon",
+    "lyricist": "Paul Simon"
   },
   {
     "id": "K09-S258",
@@ -10890,7 +10942,9 @@
     "aliases": [
       "Hotel California",
       "On a dark desert highway"
-    ]
+    ],
+    "composer": "Don Felder; Don Henley; Glenn Frey",
+    "lyricist": "Don Felder; Don Henley; Glenn Frey"
   },
   {
     "id": "K03-S234",
@@ -10900,7 +10954,9 @@
       "House of the Rising Sun, The",
       "Nousevan auringon talo",
       "On paikka kuulu kurjuuden"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K19-S028",
@@ -10922,7 +10978,9 @@
       "I know your eyes in the morning sun",
       "Käy kerallain aamuaurinkoon",
       "Olet mulle maailmain"
-    ]
+    ],
+    "composer": "Barry Gibb; Robin Gibb; Maurice Gibb",
+    "lyricist": "Barry Gibb; Robin Gibb; Maurice Gibb"
   },
   {
     "id": "K19-S024",
@@ -12015,7 +12073,9 @@
     "aliases": [
       "I Have a Dream",
       "Kuin unta vain"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Benny Andersson; Björn Ulvaeus"
   },
   {
     "id": "K05-S028",
@@ -12248,7 +12308,9 @@
       "Money, Money, Money",
       "Mä työtä teen kuin orja vain",
       "Rahaa, rahaa, rahaa"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Benny Andersson; Björn Ulvaeus"
   },
   {
     "id": "K20-S250",
@@ -13204,7 +13266,9 @@
       "On koju pieni, jossa mies myy",
       "Penny Lane",
       "Rööperiin"
-    ]
+    ],
+    "composer": "John Lennon; Paul McCartney",
+    "lyricist": "John Lennon; Paul McCartney"
   },
   {
     "id": "K12-S089",
@@ -13839,7 +13903,9 @@
     "aliases": [
       "I’ve been cheated by you",
       "Mamma Mia"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus; Stig Anderson",
+    "lyricist": "Benny Andersson; Björn Ulvaeus; Stig Anderson"
   },
   {
     "id": "K21-S258",
@@ -18014,7 +18080,9 @@
     "aliases": [
       "Kesäyö (Gershwin)",
       "Summertime"
-    ]
+    ],
+    "composer": "George Gershwin",
+    "lyricist": "DuBose Heyward; Ira Gershwin"
   },
   {
     "id": "K14-S014",
@@ -19320,7 +19388,9 @@
       "Such a feelin’s comin’ over me",
       "Top of the World",
       "Tänään huipulla"
-    ]
+    ],
+    "composer": "Richard Carpenter; John Bettis",
+    "lyricist": "Richard Carpenter; John Bettis"
   },
   {
     "id": "K14-S256",
@@ -20821,7 +20891,9 @@
       "Kuu sillan luo nyt ylle veen",
       "Kuunsillalla",
       "Moon River"
-    ]
+    ],
+    "composer": "Henry Mancini",
+    "lyricist": "Johnny Mercer"
   },
   {
     "id": "K20-S214",
@@ -24120,7 +24192,9 @@
     "page": 246,
     "aliases": [
       "Michelle"
-    ]
+    ],
+    "composer": "John Lennon; Paul McCartney",
+    "lyricist": "John Lennon; Paul McCartney"
   },
   {
     "id": "K02-S090",
@@ -25290,7 +25364,9 @@
       "Muukalainen kai nyt toisen kohtaa",
       "Muukalaiset yössä",
       "Strangers in the Night"
-    ]
+    ],
+    "composer": "Bert Kaempfert",
+    "lyricist": "Charles Singleton; Eddie Snyder"
   },
   {
     "id": "K21-S062",
@@ -25850,7 +25926,9 @@
       "Start spreadin’ the news",
       "Theme from New York, New York",
       "Tää viestini vie, jo matkalla oon"
-    ]
+    ],
+    "composer": "John Kander",
+    "lyricist": "Fred Ebb"
   },
   {
     "id": "K11-S226",
@@ -27951,7 +28029,9 @@
       "Over the Rainbow",
       "Sateenkaaren tuolla puolen",
       "Sateenkaari vie maahan satujen"
-    ]
+    ],
+    "composer": "Harold Arlen",
+    "lyricist": "E. Y. Harburg"
   },
   {
     "id": "K18-S215",
@@ -30672,7 +30752,9 @@
       "Taivaan sinessä",
       "Unen sain nähdä niin hauskan",
       "Volare"
-    ]
+    ],
+    "composer": "Domenico Modugno",
+    "lyricist": "Domenico Modugno; Franco Migliacci"
   },
   {
     "id": "K24-S274",
