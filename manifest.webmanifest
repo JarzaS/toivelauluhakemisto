@@ -1,6 +1,6 @@
 {
-  "name": "Toivelaulukirja",
-  "short_name": "Laulukirja",
+  "name": "Toivelauluhakemisto",
+  "short_name": "Toivelauluhakemisto",
   "description": "Lauluhaku ja omat kappalemuistiinpanot",
   "lang": "fi",
   "start_url": "./",
