@@ -61,7 +61,9 @@
     "aliases": [
       "A jiddishe mame",
       "On katseessa äidin"
-    ]
+    ],
+    "composer": "Felix Stahl",
+    "lyricist": "Saukki"
   },
   {
     "id": "K03-S112",
@@ -239,7 +241,9 @@
     "aliases": [
       "Aamu Airistolla",
       "Luo aamuaurinko kimmeltään"
-    ]
+    ],
+    "composer": "Pentti Viherluoto",
+    "lyricist": "Harry Etelä"
   },
   {
     "id": "K17-S024",
@@ -248,7 +252,9 @@
     "aliases": [
       "Aamu niityllä",
       "Niityltä kasteen vei aamun tuulet"
-    ]
+    ],
+    "composer": "Jaakko Salo",
+    "lyricist": "Jukka Virtanen"
   },
   {
     "id": "K11-S016",
@@ -279,7 +285,9 @@
       "Aamulla usva on noussut",
       "Morgon med dimma vid havet",
       "Morgondimma"
-    ]
+    ],
+    "composer": "Lasse Mårtenson",
+    "lyricist": "Jukka Virtanen (suomi); Lars Huldén (ruotsi)"
   },
   {
     "id": "K24-S166",
@@ -456,7 +464,8 @@
       "Aasiserenadi",
       "Donkey Serenade, The",
       "Laulu ilmassa soi, mutta oi"
-    ]
+    ],
+    "composer": "Rudolf Friml; Herbert Stothart"
   },
   {
     "id": "K23-S262",
@@ -1158,7 +1167,9 @@
     "aliases": [
       "Ake tempas kivellä päähän",
       "Ake, Make, Pera ja mä"
-    ]
+    ],
+    "composer": "Heikki Harma",
+    "lyricist": "Heikki Harma"
   },
   {
     "id": "K11-S134",
