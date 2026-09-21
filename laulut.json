@@ -1031,7 +1031,9 @@
       "He was a very special warm",
       "Hän oli lämmin niin kuin takka",
       "Näinkö aina meille täällä käy"
-    ]
+    ],
+    "composer": "Stu Phillips; Glen A. Larson; Bruce Belland",
+    "lyricist": "Stu Phillips; Glen A. Larson; Bruce Belland"
   },
   {
     "id": "K19-S098",
@@ -6469,7 +6471,9 @@
       "Ehkä suukon antaa saan",
       "Happy Birthday, Sweet Sixteen",
       "On viimeinkin nyt päivä tuo"
-    ]
+    ],
+    "composer": "Neil Sedaka",
+    "lyricist": "Howard Greenfield"
   },
   {
     "id": "K20-S252",
@@ -11089,7 +11093,9 @@
       "Hiljaa lauluin sulle huokuu",
       "Serenadi (Schubert)",
       "Ständchen"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Ludwig Rellstab"
   },
   {
     "id": "K09-S176",
@@ -14455,7 +14461,9 @@
     "aliases": [
       "I’m nothing special",
       "Thank You for the Music"
-    ]
+    ],
+    "composer": "Benny Andersson",
+    "lyricist": "Björn Ulvaeus"
   },
   {
     "id": "K13-S062",
@@ -14941,7 +14949,9 @@
       "Let It Be Me",
       "Se oli silloin",
       "Sä kerran ruusun taitoit"
-    ]
+    ],
+    "composer": "Gilbert Bécaud",
+    "lyricist": "Pierre Delanoë"
   },
   {
     "id": "K18-S178",
@@ -15154,7 +15164,9 @@
     "aliases": [
       "Jo on joulu täällä",
       "Nu så kommer julen (Sibelius)"
-    ]
+    ],
+    "composer": "Jean Sibelius",
+    "lyricist": "Zacharias Topelius"
   },
   {
     "id": "K08-S082",
@@ -17884,7 +17896,9 @@
     "aliases": [
       "Kauniit muistot (Bacharch)",
       "Magic Moments"
-    ]
+    ],
+    "composer": "Burt Bacharach",
+    "lyricist": "Hal David"
   },
   {
     "id": "K19-S120",
@@ -22357,7 +22371,8 @@
     "aliases": [
       "Largo (Händel)",
       "On alhoissa maan"
-    ]
+    ],
+    "composer": "Georg Friedrich Händel"
   },
   {
     "id": "K16-S190",
@@ -23900,7 +23915,9 @@
     "aliases": [
       "Maan korvessa kulkevi lapsosen tie",
       "Suojelusenkeli (Hannikainen)"
-    ]
+    ],
+    "composer": "P. J. Hannikainen",
+    "lyricist": "Immi Hellén"
   },
   {
     "id": "K06-S042",
@@ -26416,7 +26433,9 @@
     "aliases": [
       "Nainen (Lennon)",
       "Woman"
-    ]
+    ],
+    "composer": "John Lennon",
+    "lyricist": "John Lennon"
   },
   {
     "id": "K10-S065",
