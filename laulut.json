@@ -29,7 +29,9 @@
     "aliases": [
       "A Banda",
       "En katso naamion taa"
-    ]
+    ],
+    "composer": "Chico Buarque",
+    "lyricist": "Chico Buarque"
   },
   {
     "id": "K16-S254",
@@ -39,7 +41,9 @@
       "A cumba, cumba, cumba, cumbanchero",
       "El Cumbanchero",
       "Soi cumba, cumba, cumba, cumbanchero"
-    ]
+    ],
+    "composer": "Rafael Hernández",
+    "lyricist": "Rafael Hernández"
   },
   {
     "id": "K02-S234",
@@ -78,7 +82,9 @@
       "Corriente Tres cuatro ocho",
       "Jo varjot tiellemme hiipii",
       "Kun yö on valoton"
-    ]
+    ],
+    "composer": "Edgardo Donato",
+    "lyricist": "Carlos César Lenzi"
   },
   {
     "id": "K16-S040",
@@ -100,7 +106,9 @@
       "Jään odottamaan, kun unelmissaan",
       "Sleepy Lagoon",
       "Uinuvalla laguunilla"
-    ]
+    ],
+    "composer": "Eric Coates",
+    "lyricist": "Jack Lawrence"
   },
   {
     "id": "K10-S100",
@@ -133,7 +141,9 @@
       "A-bop-bop-a-loom-op",
       "On jäätelö hyvää, kun yksin syö",
       "Tutti frutti"
-    ]
+    ],
+    "composer": "Little Richard; Dorothy LaBostrie",
+    "lyricist": "Little Richard; Dorothy LaBostrie"
   },
   {
     "id": "K13-S070",
@@ -196,7 +206,9 @@
       "Aallokko rantaan lyö",
       "Harbour Lights",
       "Sataman valot"
-    ]
+    ],
+    "composer": "Wilhelm Grosz",
+    "lyricist": "Jimmy Kennedy"
   },
   {
     "id": "K07-S200",
@@ -244,7 +256,8 @@
       "Aamu saa, vaan unten maa",
       "Juhlamarssi Prinsessa Ruususesta",
       "Ruususen unta"
-    ]
+    ],
+    "composer": "Erkki Melartin"
   },
   {
     "id": "K03-S213",
@@ -284,7 +297,8 @@
       "Kaiu, kaiu, lauluni",
       "Klinga klar, ljud högt min sång",
       "Morgonsång (Kuula)"
-    ]
+    ],
+    "composer": "Toivo Kuula"
   },
   {
     "id": "K04-S042",
@@ -326,7 +340,9 @@
       "Get Me to the Church on Time",
       "I’m getting married in the morning",
       "Vie häihin minut tismalleen"
-    ]
+    ],
+    "composer": "Frederick Loewe",
+    "lyricist": "Alan Jay Lerner"
   },
   {
     "id": "K20-S188",
@@ -354,7 +370,9 @@
       "Heräsin ihanaan aamuun",
       "Oh, What a Beautiful Morning",
       "There’s a bright golden haze"
-    ]
+    ],
+    "composer": "Richard Rodgers",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K05-S120",
@@ -486,7 +504,9 @@
       "Aaveratsastajat",
       "Kun eräs vanha cowboy kerran",
       "Riders in the Sky"
-    ]
+    ],
+    "composer": "Stan Jones",
+    "lyricist": "Stan Jones"
   },
   {
     "id": "K17-S050",
@@ -525,7 +545,9 @@
       "Ach! So fromm",
       "Armahin, ihanin",
       "Lyonelin romanssi"
-    ]
+    ],
+    "composer": "Friedrich von Flotow",
+    "lyricist": "Friedrich Wilhelm Riese"
   },
   {
     "id": "K01-S104",
@@ -584,7 +606,9 @@
     "aliases": [
       "Addio, del passato bei sogni ridenti",
       "Nyt kaiken saan ma jättää"
-    ]
+    ],
+    "composer": "Giuseppe Verdi",
+    "lyricist": "Francesco Maria Piave"
   },
   {
     "id": "K24-S048",
@@ -603,7 +627,8 @@
     "aliases": [
       "Adeste fideles",
       "Nyt riemuiten tänne"
-    ]
+    ],
+    "composer": "John Francis Wade"
   },
   {
     "id": "K12-S260",
@@ -621,7 +646,9 @@
     "page": 234,
     "aliases": [
       "Adios muchachos"
-    ]
+    ],
+    "composer": "Julio César Sanders",
+    "lyricist": "César Vedani"
   },
   {
     "id": "K21-S108",
@@ -670,7 +697,9 @@
       "After the Ball",
       "Ilmassa vielä tanssiinkutsu soi",
       "Tanssiaisten jälkeen"
-    ]
+    ],
+    "composer": "Charles K. Harris",
+    "lyricist": "Charles K. Harris"
   },
   {
     "id": "K21-S110",
@@ -712,7 +741,8 @@
     "aliases": [
       "Ah armainen",
       "Caro mio ben"
-    ]
+    ],
+    "composer": "Tommaso Giordani"
   },
   {
     "id": "K22-S047",
@@ -897,7 +927,9 @@
       "Ain eespäin riennä, rohkea kansa",
       "Kiinan kansantasavallan kansallislaulu",
       "Tsien-tsin!"
-    ]
+    ],
+    "composer": "Nie Er",
+    "lyricist": "Tian Han"
   },
   {
     "id": "K03-S122",
@@ -930,7 +962,9 @@
       "Kielletty laulu",
       "Musica proibita",
       "Ogni sera di sotto al mio balcone"
-    ]
+    ],
+    "composer": "Stanislao Gastaldon",
+    "lyricist": "Stanislao Gastaldon"
   },
   {
     "id": "K17-S127",
@@ -1186,7 +1220,9 @@
       "Alexander’s Ragtime Band",
       "Hei tännepäin, hei tännepäin",
       "On Aleksanterilla häät"
-    ]
+    ],
+    "composer": "Irving Berlin",
+    "lyricist": "Irving Berlin"
   },
   {
     "id": "K20-S110",
@@ -1196,7 +1232,9 @@
       "Alfonsina ja meri",
       "Alfonsina y el mar",
       "Valkeassa hiekassa kulkee tie"
-    ]
+    ],
+    "composer": "Ariel Ramírez",
+    "lyricist": "Félix Luna"
   },
   {
     "id": "K07-S064",
@@ -1206,7 +1244,9 @@
       "Alice in Wonderland",
       "Liisa ihmemaassa",
       "Oi Liisa, kerrohan"
-    ]
+    ],
+    "composer": "Sammy Fain",
+    "lyricist": "Bob Hilliard"
   },
   {
     "id": "K10-S284",
@@ -1247,7 +1287,9 @@
       "Nuoruudessain antamatta sieluain",
       "Vain yksinäin",
       "When I was young I never needed anyone"
-    ]
+    ],
+    "composer": "Eric Carmen",
+    "lyricist": "Eric Carmen"
   },
   {
     "id": "K24-S194",
@@ -1267,7 +1309,9 @@
     "aliases": [
       "All I Ask of You",
       "No more talk of darkness"
-    ]
+    ],
+    "composer": "Andrew Lloyd Webber",
+    "lyricist": "Charles Hart; Richard Stilgoe"
   },
   {
     "id": "K22-S199",
@@ -1300,7 +1344,9 @@
       "Boksin tahdon mä jostain vaan",
       "Voi, kun se olis mukavaa",
       "Wouldn’t It Be Lovely"
-    ]
+    ],
+    "composer": "Frederick Loewe",
+    "lyricist": "Alan Jay Lerner"
   },
   {
     "id": "K06-S212",
@@ -1341,7 +1387,9 @@
     "page": 238,
     "aliases": [
       "All of Me"
-    ]
+    ],
+    "composer": "Gerald Marks; Seymour Simons",
+    "lyricist": "Gerald Marks; Seymour Simons"
   },
   {
     "id": "K18-S274",
@@ -1365,7 +1413,9 @@
       "Kaunein unelmain",
       "Oot päivä lämmin ensimmäinen",
       "You are the promised kiss of springtime"
-    ]
+    ],
+    "composer": "Jerome Kern",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K24-S116",
@@ -1431,7 +1481,8 @@
     "aliases": [
       "Alley Cat",
       "Meidän katti"
-    ]
+    ],
+    "composer": "Bent Fabric"
   },
   {
     "id": "K11-S124",
@@ -1452,7 +1503,9 @@
       "La Marseillaise",
       "Marseljeesi",
       "Siis eespäin, lapset synnyinmaamme"
-    ]
+    ],
+    "composer": "Claude Joseph Rouget de Lisle",
+    "lyricist": "Claude Joseph Rouget de Lisle"
   },
   {
     "id": "K10-S016",
@@ -1472,7 +1525,9 @@
     "aliases": [
       "Almaz, onnen lapsi",
       "Hän auringon sai suortuvilleen"
-    ]
+    ],
+    "composer": "Randy Crawford",
+    "lyricist": "Randy Crawford"
   },
   {
     "id": "K01-S152",
@@ -1481,7 +1536,9 @@
     "aliases": [
       "Aloha oe",
       "Jospa voisin vielä vaeltaa"
-    ]
+    ],
+    "composer": "Liliʻuokalani",
+    "lyricist": "Liliʻuokalani"
   },
   {
     "id": "K23-S230",
@@ -1500,7 +1557,9 @@
       "Alone Again (Naturally)",
       "Kun muistojeni valtaan jään",
       "Yksin oon tietenkin"
-    ]
+    ],
+    "composer": "Gilbert O’Sullivan",
+    "lyricist": "Gilbert O’Sullivan"
   },
   {
     "id": "K01-S131",
@@ -1548,7 +1607,9 @@
     "aliases": [
       "Always Look on the Bright Side of Life",
       "Something in life are bad"
-    ]
+    ],
+    "composer": "Eric Idle",
+    "lyricist": "Eric Idle"
   },
   {
     "id": "K16-S280",
@@ -1557,7 +1618,9 @@
     "aliases": [
       "Always On My Mind",
       "Maybe I didn’t treat you"
-    ]
+    ],
+    "composer": "Wayne Carson; Johnny Christopher; Mark James",
+    "lyricist": "Wayne Carson; Johnny Christopher; Mark James"
   },
   {
     "id": "K06-S098",
@@ -1568,7 +1631,9 @@
       "Der Lindenbaum",
       "Lehmus",
       "On kaivon luona lehmus"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Wilhelm Müller"
   },
   {
     "id": "K07-S084",
@@ -1602,7 +1667,9 @@
       "Amazing Grace",
       "Kuulla taas kun saan",
       "Laupeuden ääni"
-    ]
+    ],
+    "composer": "Perinnesävelmä",
+    "lyricist": "John Newton"
   },
   {
     "id": "K17-S088",
@@ -1684,7 +1751,9 @@
       "Ilo, lahja Jumalalta",
       "Ode an die Freude",
       "Oodi ilolle"
-    ]
+    ],
+    "composer": "Ludwig van Beethoven",
+    "lyricist": "Friedrich Schiller"
   },
   {
     "id": "K18-S109",
@@ -1706,7 +1775,9 @@
       "Du holde Kunst",
       "Oi sävelvuo",
       "Säveltaiteelle"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Franz von Schober"
   },
   {
     "id": "K06-S228",
@@ -2369,7 +2440,9 @@
     "page": 102,
     "aliases": [
       "As Long as He Needs Me"
-    ]
+    ],
+    "composer": "Lionel Bart",
+    "lyricist": "Lionel Bart"
   },
   {
     "id": "K14-S268",
@@ -2380,7 +2453,9 @@
       "It is the evening of the day",
       "Kun katson lapseen leikkivään",
       "Osanani ovat kyyneleet"
-    ]
+    ],
+    "composer": "Mick Jagger; Keith Richards; Andrew Loog Oldham",
+    "lyricist": "Mick Jagger; Keith Richards; Andrew Loog Oldham"
   },
   {
     "id": "K23-S218",
@@ -2402,7 +2477,9 @@
       "Kun rakastuu",
       "Sä muista neuvo tää",
       "You must remember this"
-    ]
+    ],
+    "composer": "Herman Hupfeld",
+    "lyricist": "Herman Hupfeld"
   },
   {
     "id": "K13-S085",
@@ -2566,7 +2643,9 @@
       "Auf Flügeln des Gesanges",
       "Laulun siivin",
       "Sun luokses laulun siivin nyt tulla"
-    ]
+    ],
+    "composer": "Felix Mendelssohn",
+    "lyricist": "Heinrich Heine"
   },
   {
     "id": "K18-S136",
@@ -2599,7 +2678,9 @@
       "Kai muistat vanhan ystävän",
       "Should auld acquaintance be forgot",
       "Ystävänmalja"
-    ]
+    ],
+    "composer": "Perinnesävelmä",
+    "lyricist": "Robert Burns"
   },
   {
     "id": "K18-S021",
@@ -2865,7 +2946,8 @@
     "page": 34,
     "aliases": [
       "Ave Maria (Gounod)"
-    ]
+    ],
+    "composer": "Charles Gounod; Johann Sebastian Bach"
   },
   {
     "id": "K15-S026",
@@ -2883,7 +2965,9 @@
     "page": 58,
     "aliases": [
       "Ave Maria (Schubert)"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Walter Scott"
   },
   {
     "id": "K20-S022",
@@ -2911,7 +2995,9 @@
     "aliases": [
       "Ave verum corpus",
       "Oi terve, siunattu"
-    ]
+    ],
+    "composer": "Wolfgang Amadeus Mozart",
+    "lyricist": "Ave verum corpus (latinankielinen hymni)"
   },
   {
     "id": "K22-S258",
@@ -2940,7 +3026,9 @@
     "aliases": [
       "Azzurro",
       "Ympäri vuoden kesää ootan"
-    ]
+    ],
+    "composer": "Paolo Conte; Michele Virano",
+    "lyricist": "Vito Pallavicini"
   },
   {
     "id": "K17-S142",
@@ -2962,7 +3050,9 @@
       "Fame",
       "Me emme laske viiteen",
       "Meistä jokainen on nähnyt rakkauden"
-    ]
+    ],
+    "composer": "Michael Gore",
+    "lyricist": "Dean Pitchford"
   },
   {
     "id": "K07-S110",
@@ -2993,7 +3083,9 @@
       "Ballad of Davy Crockett",
       "Davy Crockett",
       "Tennesseen tasangoilla ollut on"
-    ]
+    ],
+    "composer": "George Bruns",
+    "lyricist": "Tom Blackburn"
   },
   {
     "id": "K18-S150",
@@ -3025,7 +3117,9 @@
       "Balladi lammasvarkaasta",
       "Lähtehelle kerran leiriytyi veijari",
       "Waltzing Matilda"
-    ]
+    ],
+    "composer": "Christina Macpherson",
+    "lyricist": "Banjo Paterson"
   },
   {
     "id": "K03-S160",
@@ -3111,7 +3205,9 @@
     "aliases": [
       "Barcarolle",
       "Kaunis yö, yö rakkauden"
-    ]
+    ],
+    "composer": "Jacques Offenbach",
+    "lyricist": "Jules Barbier"
   },
   {
     "id": "K23-S242",
@@ -3122,7 +3218,9 @@
       "Karhun elämää",
       "Look for the bare necessities",
       "Onhan tää karhun elämää"
-    ]
+    ],
+    "composer": "Linda Perry",
+    "lyricist": "Linda Perry"
   },
   {
     "id": "K16-S098",
@@ -3149,7 +3247,9 @@
     "page": 264,
     "aliases": [
       "Be-bop-a-lula"
-    ]
+    ],
+    "composer": "Gene Vincent; Tex Davis",
+    "lyricist": "Gene Vincent; Tex Davis"
   },
   {
     "id": "K23-S196",
@@ -3177,7 +3277,9 @@
     "aliases": [
       "Beautiful",
       "Every day is so wonderful"
-    ]
+    ],
+    "composer": "Linda Perry",
+    "lyricist": "Linda Perry"
   },
   {
     "id": "K02-S148",
@@ -3187,7 +3289,9 @@
       "Beautiful Dreamer",
       "Kaunis uneksija",
       "Nukkuja kaunein, havahduhan"
-    ]
+    ],
+    "composer": "Stephen Foster",
+    "lyricist": "Stephen Foster"
   },
   {
     "id": "K06-S217",
@@ -3250,7 +3354,9 @@
       "Bei mir bist du schoen",
       "Niin monta neitosta ennen tunsin",
       "Sä kaunehin oot"
-    ]
+    ],
+    "composer": "Sholom Secunda",
+    "lyricist": "Jacob Jacobs"
   },
   {
     "id": "K23-S138",
@@ -3287,7 +3393,9 @@
       "Bella notte",
       "Oi, mikä yö! Oi, niin kaunis on yö",
       "This is the night"
-    ]
+    ],
+    "composer": "Sonny Burke",
+    "lyricist": "Peggy Lee"
   },
   {
     "id": "K19-S088",
@@ -3334,7 +3442,8 @@
       "Berceuse",
       "Kehtolaulu (Järnefelt)",
       "Uinu, uinu, lapsi armainen"
-    ]
+    ],
+    "composer": "Armas Järnefelt"
   },
   {
     "id": "K15-S124",
@@ -3403,7 +3512,9 @@
       "Betlehems stjärna",
       "Gläns över sjö och strand",
       "Loistaos yllä yön"
-    ]
+    ],
+    "composer": "Alice Tegnér",
+    "lyricist": "Viktor Rydberg"
   },
   {
     "id": "K17-S152",
@@ -3423,7 +3534,9 @@
     "aliases": [
       "Big Spender",
       "The minute you walked in the joint"
-    ]
+    ],
+    "composer": "Cy Coleman",
+    "lyricist": "Dorothy Fields"
   },
   {
     "id": "K01-S113",
@@ -3518,7 +3631,9 @@
       "I'll have a blue Christmas without you",
       "Jos joulu tuo rintaan rauhan",
       "On joulu taas, kellot kun kuulin"
-    ]
+    ],
+    "composer": "Billy Hayes; Jay W. Johnson",
+    "lyricist": "Billy Hayes; Jay W. Johnson"
   },
   {
     "id": "K22-S212",
@@ -3528,7 +3643,9 @@
       "Blue Eyes",
       "Taivaan katseessaan nään taas",
       "Taivas katseessaan"
-    ]
+    ],
+    "composer": "Elton John",
+    "lyricist": "Gary Osborne"
   },
   {
     "id": "K09-S226",
@@ -3538,7 +3655,9 @@
       "Blue Moon",
       "Oi kuu, kun yksin harmauteen jäin",
       "Sininen kuu"
-    ]
+    ],
+    "composer": "Richard Rodgers",
+    "lyricist": "Lorenz Hart"
   },
   {
     "id": "K09-S254",
@@ -3570,7 +3689,9 @@
       "Blue Velvet",
       "Hän on Blue Velvet",
       "She wore blue velvet"
-    ]
+    ],
+    "composer": "Bernie Wayne; Lee Morris",
+    "lyricist": "Bernie Wayne; Lee Morris"
   },
   {
     "id": "K12-S024",
@@ -3702,7 +3823,9 @@
       "Juomalaulu (oopp. Traviata)",
       "Kun viini, kun viini näin maljassa",
       "Libiamo, libiamo ne’ lieti calici"
-    ]
+    ],
+    "composer": "Giuseppe Verdi",
+    "lyricist": "Francesco Maria Piave"
   },
   {
     "id": "K06-S214",
@@ -3713,7 +3836,9 @@
       "Once I built a railroad, made it run",
       "Tietä ennen sotaa Petsamoon",
       "Vippaa mulle viitonen"
-    ]
+    ],
+    "composer": "Jay Gorney",
+    "lyricist": "E. Y. Harburg"
   },
   {
     "id": "K03-S018",
@@ -3759,7 +3884,9 @@
     "page": 246,
     "aliases": [
       "Buona sera, signorina"
-    ]
+    ],
+    "composer": "Carl Sigman; Peter DeRose",
+    "lyricist": "Carl Sigman; Peter DeRose"
   },
   {
     "id": "K15-S142",
@@ -3789,7 +3916,9 @@
     "aliases": [
       "Bye, Bye, Love",
       "Jääköön rakkaus"
-    ]
+    ],
+    "composer": "Felice Bryant; Boudleaux Bryant",
+    "lyricist": "Felice Bryant; Boudleaux Bryant"
   },
   {
     "id": "K12-S012",
