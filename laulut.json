@@ -384,7 +384,8 @@
       "Are you going to Scarborough Fair",
       "Lilja, ruusu ja kirsikkapuu",
       "Scarborough Fair"
-    ]
+    ],
+    "composer": "Kansansävelmä (Englanti)"
   },
   {
     "id": "K04-S055",
@@ -12008,7 +12009,8 @@
       "Taas toivotus hyvän joulun",
       "Tule, joulu kultainen",
       "We Wish You a Merry Christmas"
-    ]
+    ],
+    "composer": "Kansansävelmä (Englanti)"
   },
   {
     "id": "K17-S262",
@@ -17167,7 +17169,9 @@
     "page": 126,
     "aliases": [
       "Kalinka"
-    ]
+    ],
+    "composer": "Ivan Larionov",
+    "lyricist": "Ivan Larionov"
   },
   {
     "id": "K19-S138",
