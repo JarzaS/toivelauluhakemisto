@@ -8689,7 +8689,9 @@
     "aliases": [
       "Everybody needs a little time away",
       "Hard to Say I'm Sorry"
-    ]
+    ],
+    "composer": "Peter Cetera; David Foster",
+    "lyricist": "Peter Cetera; David Foster"
   },
   {
     "id": "K20-S241",
@@ -10146,7 +10148,9 @@
       "Happy Days",
       "Onnen päivät",
       "Sunday, Monday, Happy Days"
-    ]
+    ],
+    "composer": "Charles Fox",
+    "lyricist": "Norman Gimbel"
   },
   {
     "id": "K09-S218",
@@ -12744,7 +12748,9 @@
       "Korttitalo vaan",
       "Tahdoin taikka en",
       "Winner Takes It All, The"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Benny Andersson; Björn Ulvaeus"
   },
   {
     "id": "K21-S095",
@@ -21496,7 +21502,9 @@
       "Kun vuorille käyn",
       "Sound of Music, The",
       "The Sound of Music (The Hills Are Alive)"
-    ]
+    ],
+    "composer": "Richard Rodgers",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K11-S239",
@@ -28678,7 +28686,9 @@
     "aliases": [
       "Only the Lonely",
       "Vain yksinäinen"
-    ]
+    ],
+    "composer": "Roy Orbison; Joe Melson",
+    "lyricist": "Roy Orbison; Joe Melson"
   },
   {
     "id": "K11-S248",
@@ -28688,7 +28698,9 @@
       "Only You",
       "Sinä vain (Ram & Rand)",
       "Sulle vain nyt ruusut aukeaa"
-    ]
+    ],
+    "composer": "Buck Ram; Ande Rand",
+    "lyricist": "Buck Ram; Ande Rand"
   },
   {
     "id": "K22-S150",
@@ -31031,7 +31043,9 @@
     "page": 98,
     "aliases": [
       "Some Day My Prince Will Come"
-    ]
+    ],
+    "composer": "Frank Churchill",
+    "lyricist": "Larry Morey"
   },
   {
     "id": "K07-S076",
@@ -31040,7 +31054,9 @@
     "aliases": [
       "Some Enchanted Evening",
       "Tähtitarhat hohtaa"
-    ]
+    ],
+    "composer": "Richard Rodgers",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K24-S282",
@@ -32917,7 +32933,9 @@
     "page": 104,
     "aliases": [
       "What Kind of Fool Am I"
-    ]
+    ],
+    "composer": "Leslie Bricusse; Anthony Newley",
+    "lyricist": "Leslie Bricusse; Anthony Newley"
   },
   {
     "id": "K24-S081",
@@ -32926,7 +32944,9 @@
     "aliases": [
       "When you walk through a storm",
       "You'll Never Walk Alone"
-    ]
+    ],
+    "composer": "Richard Rodgers",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K03-S108",
