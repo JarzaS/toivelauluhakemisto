@@ -962,7 +962,8 @@
       "Ash Grove, The",
       "Down yonder green valley",
       "Saarnilehdossa"
-    ]
+    ],
+    "composer": "Walesilainen kansansävelmä"
   },
   {
     "id": "K13-S130",
@@ -1538,7 +1539,9 @@
       "Allez venez, Milord",
       "Milord",
       "Noin huokaiskaa, Milord"
-    ]
+    ],
+    "composer": "Marguerite Monnot",
+    "lyricist": "Georges Moustaki"
   },
   {
     "id": "K03-S154",
@@ -1901,7 +1904,9 @@
       "Star Dust",
       "Taas illan sinisen kun syliin jään",
       "Tähtisumua"
-    ]
+    ],
+    "composer": "Hoagy Carmichael",
+    "lyricist": "Mitchell Parish"
   },
   {
     "id": "K09-S209",
@@ -2113,7 +2118,9 @@
       "Annie Laurie",
       "Maxwellin kummut loistaa",
       "Maxwellton’s braes are bonnie"
-    ]
+    ],
+    "composer": "Alicia Scott (Lady John Scott)",
+    "lyricist": "William Douglas; Alicia Scott (Lady John Scott)"
   },
   {
     "id": "K18-S184",
@@ -17689,7 +17696,9 @@
       "Se jokin sinulla on (5. painoksessa)",
       "Sun läsnäolosi vain tärkein on (5. painoksessa)",
       "You've Got What I Like (5. painoksessa)"
-    ]
+    ],
+    "composer": "Bob Merrill",
+    "lyricist": "Olaus"
   },
   {
     "id": "K14-S098",
@@ -26251,7 +26260,8 @@
     "aliases": [
       "My Lord, What a Morning",
       "Oi Herra, mikä aamu"
-    ]
+    ],
+    "composer": "Perinteinen afroamerikkalainen hengellinen sävelmä"
   },
   {
     "id": "K01-S148",
@@ -27272,7 +27282,8 @@
       "Oh, when the Saints go marchin’ in",
       "Soitto saapuu kaupunkiin",
       "When the Saints Go Marching In"
-    ]
+    ],
+    "composer": "Perinteinen hengellinen sävelmä"
   },
   {
     "id": "K10-S238",
@@ -29697,7 +29708,9 @@
     "aliases": [
       "Power of Love, The",
       "The whispers in the morning"
-    ]
+    ],
+    "composer": "Gunther Mende; Candy de Rouge",
+    "lyricist": "Jennifer Rush; Mary Susan Applegate"
   },
   {
     "id": "K16-S110",
