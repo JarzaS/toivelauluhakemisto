@@ -14981,7 +14981,9 @@
     "aliases": [
       "Jeepers Creepers",
       "Kissa vieköön"
-    ]
+    ],
+    "composer": "Harry Warren",
+    "lyricist": "Johnny Mercer"
   },
   {
     "id": "K20-S028",
@@ -15186,7 +15188,9 @@
       "Jo saapui myrskysää",
       "Laulaen sateessa",
       "Singin’ in the Rain"
-    ]
+    ],
+    "composer": "Nacio Herb Brown",
+    "lyricist": "Arthur Freed"
   },
   {
     "id": "K16-S093",
@@ -19979,7 +19983,9 @@
       "Oh, my love, my darling",
       "On kuin yö, yö raskain",
       "Unchained Melody"
-    ]
+    ],
+    "composer": "Alex North",
+    "lyricist": "Hy Zaret"
   },
   {
     "id": "K08-S246",
@@ -29765,7 +29771,9 @@
       "Rakastaa voin näin",
       "Silloin saat mun sydämein",
       "When I Fall in Love"
-    ]
+    ],
+    "composer": "Victor Young",
+    "lyricist": "Edward Heyman"
   },
   {
     "id": "K16-S206",
