@@ -3852,7 +3852,9 @@
       "Bob the builder",
       "Can We Fix It? (Bob the Builder)",
       "Puuha-Pete kaiken korjaa"
-    ]
+    ],
+    "composer": "Paul K. Joyce",
+    "lyricist": "Paul K. Joyce"
   },
   {
     "id": "K09-S064",
@@ -6057,7 +6059,9 @@
     "aliases": [
       "Don’t leave me in all this pain",
       "Unbreak My Heart"
-    ]
+    ],
+    "composer": "Diane Warren",
+    "lyricist": "Diane Warren"
   },
   {
     "id": "K24-S225",
@@ -6573,7 +6577,9 @@
       "Four Strong Winds",
       "Neljä vahvaa tuulta",
       "Think I'll go out to Alberta"
-    ]
+    ],
+    "composer": "Ian Tyson",
+    "lyricist": "Ian Tyson"
   },
   {
     "id": "K10-S098",
@@ -6582,7 +6588,9 @@
     "aliases": [
       "Ei aina käy niin",
       "You Only Live Twice"
-    ]
+    ],
+    "composer": "John Barry",
+    "lyricist": "Leslie Bricusse"
   },
   {
     "id": "K19-S140",
@@ -6612,7 +6620,9 @@
       "Up Where We Belong",
       "Who knows what tomorrow brings",
       "Yläilmoihin"
-    ]
+    ],
+    "composer": "Jack Nitzsche; Buffy Sainte-Marie",
+    "lyricist": "Will Jennings"
   },
   {
     "id": "K24-S256",
@@ -10480,7 +10490,9 @@
     "aliases": [
       "Hei, hei Pussycat",
       "What’s New Pussycat"
-    ]
+    ],
+    "composer": "Burt Bacharach",
+    "lyricist": "Hal David"
   },
   {
     "id": "K14-S148",
@@ -11484,7 +11496,9 @@
       "Kun katse tottuu hämärään",
       "Tuhkaa",
       "Your multilingual bus’ness friend"
-    ]
+    ],
+    "composer": "Gary Brooker",
+    "lyricist": "Keith Reid"
   },
   {
     "id": "K01-S116",
@@ -11818,7 +11832,9 @@
     "aliases": [
       "Huomenta, aamu",
       "Morning Has Broken"
-    ]
+    ],
+    "composer": "Perinteinen skotlantilainen sävelmä (Bunessan)",
+    "lyricist": "Eleanor Farjeon"
   },
   {
     "id": "K24-S130",
