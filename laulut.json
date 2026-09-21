@@ -8100,7 +8100,9 @@
       "Gonna tell Aunt Mary",
       "Long Tall Sally",
       "Rehtorin luiseva Salli"
-    ]
+    ],
+    "composer": "Enotris Johnson; Robert Blackwell; Richard Penniman",
+    "lyricist": "Enotris Johnson; Robert Blackwell; Richard Penniman"
   },
   {
     "id": "K04-S020",
@@ -13840,7 +13842,9 @@
       "In my memory I will always see",
       "Kaupunki, jota rakastin niin",
       "Town I Loved So Well, The"
-    ]
+    ],
+    "composer": "Phil Coulter",
+    "lyricist": "Phil Coulter; K. Toosi (suomenkieliset sanat)"
   },
   {
     "id": "K17-S266",
@@ -15362,7 +15366,9 @@
     "page": 216,
     "aliases": [
       "Jolene"
-    ]
+    ],
+    "composer": "Dolly Parton",
+    "lyricist": "Dolly Parton"
   },
   {
     "id": "K22-S259",
@@ -18167,7 +18173,9 @@
       "One, two, three o’clock",
       "Rock Around the Clock",
       "Tunnista toiseen"
-    ]
+    ],
+    "composer": "Max C. Freedman; James E. Myers (Jimmy De Knight)",
+    "lyricist": "Max C. Freedman; James E. Myers (Jimmy De Knight)"
   },
   {
     "id": "K12-S040",
@@ -18348,7 +18356,9 @@
       "Kun aivan pieni ollessain",
       "Que sera,sera",
       "When I was just a little girl"
-    ]
+    ],
+    "composer": "Jay Livingston; Ray Evans",
+    "lyricist": "Jay Livingston; Ray Evans; Saukki (suomenkieliset sanat)"
   },
   {
     "id": "K08-S210",
@@ -21574,7 +21584,9 @@
       "Memory",
       "Midnight, not a sound",
       "Muisto (Webber)"
-    ]
+    ],
+    "composer": "Andrew Lloyd Webber",
+    "lyricist": "Trevor Nunn (T. S. Eliotin runojen pohjalta)"
   },
   {
     "id": "K15-S076",
