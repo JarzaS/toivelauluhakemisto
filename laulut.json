@@ -996,7 +996,9 @@
       "Aina tukkipoika tunnetaan",
       "Sunset Trail, The",
       "Tukkipoika tunnetaan"
-    ]
+    ],
+    "composer": "Jimmy Kennedy; Michael Carr",
+    "lyricist": "Reino Hirviseppä"
   },
   {
     "id": "K11-S058",
@@ -1069,7 +1071,9 @@
     "aliases": [
       "Aja hiljaa, isi",
       "Fahr langsam, Papi"
-    ]
+    ],
+    "composer": "Hans Blum",
+    "lyricist": "Saukki"
   },
   {
     "id": "K13-S282",
@@ -1356,7 +1360,9 @@
       "I tried so hard all summer through",
       "Jokainen hetki",
       "Lähtenyt on rakkahin pois"
-    ]
+    ],
+    "composer": "Ben Weisman",
+    "lyricist": "Clive Westlake"
   },
   {
     "id": "K19-S050",
@@ -1406,7 +1412,9 @@
       "Hush little baby, don’t you cry",
       "Kaiken menetin",
       "On mennyt aika nuoruuden"
-    ]
+    ],
+    "composer": "Perinteinen",
+    "lyricist": "Perinteinen"
   },
   {
     "id": "K10-S037",
@@ -1585,7 +1593,9 @@
     "aliases": [
       "Alone",
       "I hear the ticking of the clock"
-    ]
+    ],
+    "composer": "Billy Steinberg; Tom Kelly",
+    "lyricist": "Billy Steinberg; Tom Kelly"
   },
   {
     "id": "K17-S276",
