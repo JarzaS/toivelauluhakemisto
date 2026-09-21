@@ -1735,7 +1735,9 @@
       "America",
       "I like to be in America",
       "Toiveiden maa on Ameeriikaa"
-    ]
+    ],
+    "composer": "Leonard Bernstein",
+    "lyricist": "Stephen Sondheim"
   },
   {
     "id": "K10-S114",
@@ -3108,7 +3110,9 @@
       "Hay en Rio un monte dechositas",
       "Kellojen kutsu",
       "Ypöyksin mies kulkee"
-    ]
+    ],
+    "composer": "Herivelto Martins",
+    "lyricist": "Juha Vainio"
   },
   {
     "id": "K10-S026",
@@ -3129,7 +3133,8 @@
       "Away in a Manger",
       "Vain seimi niin halpa ja vaatimaton",
       "Vastasyntynyt Jeesus"
-    ]
+    ],
+    "composer": "William J. Kirkpatrick"
   },
   {
     "id": "K04-S138",
@@ -3310,7 +3315,9 @@
     "aliases": [
       "Banjo Boy",
       "Kaupungissa hiljaiselta näyttää"
-    ]
+    ],
+    "composer": "Charly Niessen",
+    "lyricist": "Reino Helismaa"
   },
   {
     "id": "K10-S164",
@@ -3429,7 +3436,9 @@
       "Beautiful in the Rain",
       "Kolmatta linjaa takaisin",
       "Mä Kolmatta linjaa takaisin"
-    ]
+    ],
+    "composer": "Tony Hatch; Jackie Trent",
+    "lyricist": "Juha Vainio"
   },
   {
     "id": "K20-S088",
@@ -3466,7 +3475,9 @@
       "Beg, Steal Or Borrow",
       "Mä varkain vien taikka lainaan",
       "Varkain vien taikka lainaan"
-    ]
+    ],
+    "composer": "Tony Cole; Graeme Hall; Steve Wolfe",
+    "lyricist": "Tony Cole; Graeme Hall; Steve Wolfe"
   },
   {
     "id": "K04-S233",
@@ -3476,7 +3487,8 @@
       "Bei dir war es immer so schön",
       "Luonasi oli aina niin ihanaa",
       "On niin kaunis muistoni tää"
-    ]
+    ],
+    "composer": "Theo Mackeben"
   },
   {
     "id": "K03-S246",
