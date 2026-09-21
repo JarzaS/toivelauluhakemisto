@@ -1476,7 +1476,9 @@
       "Alle Vögel sind schon da",
       "Kevätlinnut",
       "Saapuneet on tänne jo"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "August Heinrich Hoffmann von Fallersleben"
   },
   {
     "id": "K21-S158",
@@ -2664,7 +2666,9 @@
       "Au clair de la lune",
       "Ystävykset",
       "Ystäväni, sulle lausun pyynnön tään"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "Tuntematon"
   },
   {
     "id": "K06-S076",
@@ -2741,7 +2745,8 @@
     "aliases": [
       "Auran aallot",
       "Vangin laulu"
-    ]
+    ],
+    "composer": "Kansansävelmä"
   },
   {
     "id": "K12-S022",
@@ -2960,7 +2965,9 @@
     "page": 22,
     "aliases": [
       "Avaja porttis, ovesi"
-    ]
+    ],
+    "composer": "Ruotsalainen sävelmä (1600-luku)",
+    "lyricist": "Georg Weissel (alkuperäiset sanat)"
   },
   {
     "id": "K02-S086",
@@ -3013,7 +3020,9 @@
       "Ave Maria (Merikanto)",
       "Neitsyt Maria emonen",
       "Rukous (Merikanto)"
-    ]
+    ],
+    "composer": "Oskar Merikanto",
+    "lyricist": "Juhani Sjöström"
   },
   {
     "id": "K02-S058",
