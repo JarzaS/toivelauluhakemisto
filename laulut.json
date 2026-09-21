@@ -4235,7 +4235,9 @@
       "Karkkimies",
       "Ken saa päivänpaisteen makuun siirapin",
       "Who can take a sunrise sprinkle it with dew"
-    ]
+    ],
+    "composer": "Leslie Bricusse; Anthony Newley",
+    "lyricist": "Leslie Bricusse; Anthony Newley"
   },
   {
     "id": "K10-S255",
@@ -4293,7 +4295,9 @@
       "Capri",
       "Isle of Capri",
       "Mä kerran saarella kaunoisen Caprin"
-    ]
+    ],
+    "composer": "Wilhelm Grosz",
+    "lyricist": "Jimmy Kennedy"
   },
   {
     "id": "K13-S150",
@@ -4405,7 +4409,9 @@
     "aliases": [
       "Catari",
       "Core ’ngrato"
-    ]
+    ],
+    "composer": "Salvatore Cardillo",
+    "lyricist": "Riccardo Cordiferro"
   },
   {
     "id": "K20-S244",
@@ -4427,7 +4433,9 @@
     "aliases": [
       "Cathedral bells were tolling",
       "I’ll Be Seeing You"
-    ]
+    ],
+    "composer": "Sammy Fain",
+    "lyricist": "Irving Kahal"
   },
   {
     "id": "K07-S071",
@@ -4518,7 +4526,8 @@
       "Lennä, voit mennä ja tulla",
       "Love him, I love him",
       "Sua rakastan"
-    ]
+    ],
+    "composer": "Franck Pourcel; Paul Mauriat"
   },
   {
     "id": "K16-S284",
