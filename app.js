@@ -371,6 +371,8 @@ $("importFile").addEventListener("change", async e => {
 });
 
 (async () => {
+  let vaihe = "laulut.json-tiedoston lataus";
+
   try {
     const response = await fetch("./laulut.json");
 
@@ -382,8 +384,10 @@ $("importFile").addEventListener("change", async e => {
       );
     }
 
+    vaihe = "laulut.json-tiedoston lukeminen";
     songs = await response.json();
 
+    vaihe = "lauluaineiston rakenteen tarkistus";
     if (
       !Array.isArray(songs) ||
       !songs.every(
@@ -395,9 +399,16 @@ $("importFile").addEventListener("change", async e => {
       throw Error("Lauluaineiston muoto on virheellinen.");
     }
 
+    vaihe = "paikallisen tietokannan avaaminen";
     db = await openDB();
-    edits = validEdits(await readEdits());
 
+    vaihe = "omien tietojen lukeminen";
+    const savedEdits = await readEdits();
+
+    vaihe = "omien tietojen tarkistus";
+    edits = validEdits(savedEdits);
+
+    vaihe = "hakutulosten näyttäminen";
     renderResults();
 
     if ("serviceWorker" in navigator) {
@@ -407,8 +418,11 @@ $("importFile").addEventListener("change", async e => {
     }
   } catch (e) {
     $("status").textContent =
-      "Sovelluksen käynnistys epäonnistui: " + e.message;
+      "Sovelluksen käynnistys epäonnistui vaiheessa " +
+      vaihe +
+      ": " +
+      e.message;
 
-    console.error(e);
+    console.error("Käynnistysvirhe, vaihe:", vaihe, e);
   }
 })();
