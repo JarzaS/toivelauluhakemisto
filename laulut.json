@@ -3116,7 +3116,9 @@
     "page": 22,
     "aliases": [
       "Ave Maria (”Caccini”)"
-    ]
+    ],
+    "composer": "Vladimir Vavilov",
+    "lyricist": "Perinteinen latinankielinen teksti"
   },
   {
     "id": "K14-S248",
@@ -15153,7 +15155,9 @@
       "Kulta-aikaan",
       "La bohème",
       "Mä kai jo vanha oon"
-    ]
+    ],
+    "composer": "Charles Aznavour",
+    "lyricist": "Jacques Plante"
   },
   {
     "id": "K05-S248",
@@ -17787,7 +17791,9 @@
       "Liisa pien’",
       "Lili Marleen",
       "Vor der Kaserne"
-    ]
+    ],
+    "composer": "Norbert Schultze",
+    "lyricist": "Hans Leip"
   },
   {
     "id": "K14-S028",
@@ -19111,7 +19117,9 @@
       "Taas tultu siihen on",
       "Thanks for the Memory",
       "Yes, we've travelled far and wide"
-    ]
+    ],
+    "composer": "Ralph Rainger",
+    "lyricist": "Leo Robin"
   },
   {
     "id": "K03-S072",
