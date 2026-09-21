@@ -4861,7 +4861,9 @@
     "aliases": [
       "Coventry Carol",
       "Seimessä nukkuvi lapsonen"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K21-S040",
@@ -4918,7 +4920,9 @@
       "Kappelin kellot",
       "Kun kappelissa kellot soivat",
       "You saw me crying in the chapel"
-    ]
+    ],
+    "composer": "Artie Glenn",
+    "lyricist": "Artie Glenn"
   },
   {
     "id": "K19-S252",
@@ -4973,7 +4977,9 @@
       "On hurmaavaa, kun löytää rakkauden",
       "Se on niin hurmaavaa",
       "When love comes in"
-    ]
+    ],
+    "composer": "Cole Porter",
+    "lyricist": "Cole Porter"
   },
   {
     "id": "K08-S208",
@@ -4982,7 +4988,9 @@
     "aliases": [
       "C’est si bon",
       "Hyvä on olla luonasi"
-    ]
+    ],
+    "composer": "Henri Betti",
+    "lyricist": "André Hornez"
   },
   {
     "id": "K06-S187",
@@ -5013,7 +5021,9 @@
       "Da geh’ ich zu Maxim",
       "Käyn illoin Maximiin",
       "Maximiin silloin käyn"
-    ]
+    ],
+    "composer": "Franz Lehár",
+    "lyricist": "Victor Léon; Leo Stein"
   },
   {
     "id": "K17-S054",
@@ -5144,7 +5154,9 @@
       "Dark Eyes",
       "Oi tummat silmät loistakaa",
       "Tummat silmät"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Yevgeny Grebyonka"
   },
   {
     "id": "K01-S146",
@@ -5207,7 +5219,9 @@
     "aliases": [
       "Das klinget so herrlich",
       "Tuo soitto niin kaunis"
-    ]
+    ],
+    "composer": "Wolfgang Amadeus Mozart",
+    "lyricist": "Emanuel Schikaneder"
   },
   {
     "id": "K08-S098",
@@ -5332,7 +5346,9 @@
     "aliases": [
       "Deep River",
       "Jordan virtaa"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K10-S102",
@@ -5375,7 +5391,9 @@
       "Delta Dawn",
       "Laakson lilja",
       "Lilja tuo, kuka katseen häneen luo"
-    ]
+    ],
+    "composer": "Alex Harvey; Larry Collins",
+    "lyricist": "Alex Harvey; Larry Collins"
   },
   {
     "id": "K06-S160",
@@ -5437,7 +5455,9 @@
       "Der er et yndigt land",
       "On armahainen maa",
       "Tanskan kansallishymni"
-    ]
+    ],
+    "composer": "Hans Ernst Krøyer",
+    "lyricist": "Adam Oehlenschläger"
   },
   {
     "id": "K08-S102",
@@ -5448,7 +5468,9 @@
       "Huoleton reissumies",
       "Oon reissumies mä huoleton",
       "Valderi, valdera"
-    ]
+    ],
+    "composer": "Friedrich-Wilhelm Möller",
+    "lyricist": "Florenz Friedrich Sigismund"
   },
   {
     "id": "K18-S134",
@@ -5506,7 +5528,9 @@
       "Erämaan laulu",
       "My desert is waiting",
       "Näin erämaan laulu"
-    ]
+    ],
+    "composer": "Sigmund Romberg",
+    "lyricist": "Otto Harbach; Oscar Hammerstein II; Frank Mandel"
   },
   {
     "id": "K19-S260",
@@ -5688,7 +5712,9 @@
       "Dicitencello vuie",
       "Hän seurassanne on",
       "Kertokaa se hänelle"
-    ]
+    ],
+    "composer": "Rodolfo Falvo",
+    "lyricist": "Enzo Fusco"
   },
   {
     "id": "K22-S226",
@@ -5697,7 +5723,9 @@
     "aliases": [
       "Didn't We Almost Have It All",
       "Remember when we held on in the rain"
-    ]
+    ],
+    "composer": "Michael Masser; Will Jennings",
+    "lyricist": "Michael Masser; Will Jennings"
   },
   {
     "id": "K02-S128",
@@ -5881,7 +5909,9 @@
     "aliases": [
       "Do You Know Where You're Going to",
       "Miten voi"
-    ]
+    ],
+    "composer": "Michael Masser",
+    "lyricist": "Gerry Goffin"
   },
   {
     "id": "K02-S220",
@@ -5993,7 +6023,9 @@
     "aliases": [
       "Down by the Riverside",
       "I’m gonna lay down my sword and shield"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K10-S113",
@@ -6003,7 +6035,9 @@
       "Down by the Salley Gardens",
       "Puistikossa",
       "Tuol rannan puistikossa"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "W. B. Yeats"
   },
   {
     "id": "K18-S118",
@@ -6089,7 +6123,9 @@
     "aliases": [
       "Drink to Me Only",
       "Maljani juo’os"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Ben Jonson"
   },
   {
     "id": "K06-S152",
@@ -6099,7 +6135,9 @@
       "Drunken Sailor",
       "Hoijaa, ja hiukan vielä",
       "Huomata sitä ei saa"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K05-S140",
@@ -6142,7 +6180,9 @@
       "Du gamla, du fria",
       "Pohjolan maa",
       "Sä jylhä ja ponteva Pohjolan maa"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Richard Dybeck"
   },
   {
     "id": "K18-S072",
@@ -6202,7 +6242,9 @@
     "aliases": [
       "Du, du liegst mir im Herzen",
       "Sun sain sydämeen juuri"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K22-S082",
@@ -6279,7 +6321,9 @@
     "page": 103,
     "aliases": [
       "Early One Morning"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K13-S256",
@@ -6290,7 +6334,9 @@
       "I was born in East Virginia",
       "Tiedä en mä, mistä saapuu",
       "Tuntematon"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K24-S088",
@@ -6300,7 +6346,9 @@
       "Easy to Be Hard",
       "How can people be so heartless",
       "Kuinka olla voi niin julmaa?"
-    ]
+    ],
+    "composer": "Galt MacDermot",
+    "lyricist": "James Rado; Gerome Ragni"
   },
   {
     "id": "K13-S041",
@@ -6497,7 +6545,9 @@
       "Ei itkeä saa, ei meluta saa",
       "Joulupukki matkaan jo käy",
       "Santa Claus Is Coming to Town"
-    ]
+    ],
+    "composer": "J. Fred Coots",
+    "lyricist": "Haven Gillespie"
   },
   {
     "id": "K12-S206",
@@ -6574,7 +6624,9 @@
     "aliases": [
       "Ei kukaan voi purjeitta seilata",
       "Laulu merellä"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K23-S258",
@@ -7027,7 +7079,9 @@
       "Ekorrn satt i granen",
       "Orava",
       "Oravalla puussa"
-    ]
+    ],
+    "composer": "Alice Tegnér",
+    "lyricist": "Alice Tegnér"
   },
   {
     "id": "K12-S288",
@@ -7044,7 +7098,9 @@
     "page": 242,
     "aliases": [
       "El Bimbo"
-    ]
+    ],
+    "composer": "Claude Morgan",
+    "lyricist": "Claude Morgan"
   },
   {
     "id": "K10-S130",
@@ -7077,7 +7133,9 @@
       "El Relicario",
       "Hanurimestarit",
       "Jo nuorukaisena hanuristeja niin kovin jumaloin"
-    ]
+    ],
+    "composer": "José Padilla",
+    "lyricist": "Armando Oliveros; José María Castellví"
   },
   {
     "id": "K05-S178",
@@ -7283,7 +7341,9 @@
     "aliases": [
       "Elämä juoksuhaudoissa",
       "Taistoihin tiemme kun toi"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K06-S168",
@@ -7311,7 +7371,9 @@
     "aliases": [
       "Elämälle kiitos",
       "Gracias a la vida"
-    ]
+    ],
+    "composer": "Violeta Parra",
+    "lyricist": "Violeta Parra"
   },
   {
     "id": "K13-S280",
@@ -7459,7 +7521,9 @@
       "Syntymäpäivä äidin",
       "Äidin sydän",
       "Äidin syntymäpäivä"
-    ]
+    ],
+    "composer": "Robert Theodor Hansen",
+    "lyricist": "Lydia Koidula"
   },
   {
     "id": "K04-S210",
@@ -7885,7 +7949,9 @@
     "aliases": [
       "English Country Garden",
       "How many kinds of sweet flowers"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K01-S068",
@@ -8323,7 +8389,9 @@
       "Eternally",
       "I’ll be loving you eternally",
       "Terry’s Theme from Limelight"
-    ]
+    ],
+    "composer": "Charles Chaplin",
+    "lyricist": "Geoffrey Parsons; John Turner"
   },
   {
     "id": "K12-S196",
@@ -8437,7 +8505,9 @@
       "Hey, if we can’t solve any problems",
       "Ja taasko laukkua sä pakkaat",
       "Joka kerta kun sä meet"
-    ]
+    ],
+    "composer": "Daryl Hall",
+    "lyricist": "Daryl Hall"
   },
   {
     "id": "K20-S235",
@@ -8479,7 +8549,9 @@
       "Kohta juna lähtee",
       "Loco-Motion, The",
       "On kassi sekä passi"
-    ]
+    ],
+    "composer": "Gerry Goffin; Carole King",
+    "lyricist": "Gerry Goffin; Carole King"
   },
   {
     "id": "K02-S228",
@@ -8533,7 +8605,9 @@
       "Hiljaa vaivun",
       "I don't know you but I want you",
       "Tunne sua en, tahdon sua"
-    ]
+    ],
+    "composer": "Glen Hansard; Markéta Irglová",
+    "lyricist": "Glen Hansard; Markéta Irglová"
   },
   {
     "id": "K15-S154",
@@ -8604,7 +8678,9 @@
       "Feliz Navidad",
       "Jouluterveiset Pohjolasta",
       "On valkoinen maa ja puut hopeaa"
-    ]
+    ],
+    "composer": "José Feliciano",
+    "lyricist": "José Feliciano"
   },
   {
     "id": "K01-S158",
@@ -8625,7 +8701,9 @@
       "Kuume",
       "Lapselta jo kuumeen vaivan",
       "Never know how much I love you"
-    ]
+    ],
+    "composer": "Eddie Cooley; Otis Blackwell",
+    "lyricist": "Eddie Cooley; Otis Blackwell"
   },
   {
     "id": "K19-S290",
@@ -8636,7 +8714,9 @@
       "Kultaniityt",
       "Minut muistat, kun ohrapellon luo",
       "You’ll remember me"
-    ]
+    ],
+    "composer": "Sting",
+    "lyricist": "Sting"
   },
   {
     "id": "K19-S128",
@@ -8657,7 +8737,9 @@
       "Finlandia-hymni",
       "O Finland, se",
       "Oi Suomi, katso"
-    ]
+    ],
+    "composer": "Jean Sibelius",
+    "lyricist": "V. A. Koskenniemi"
   },
   {
     "id": "K11-S013",
@@ -8710,7 +8792,9 @@
     "aliases": [
       "Five hundred twenty-five thousand",
       "Seasons of Love"
-    ]
+    ],
+    "composer": "Jonathan Larson",
+    "lyricist": "Jonathan Larson"
   },
   {
     "id": "K04-S113",
@@ -8729,7 +8813,9 @@
       "Fjäriln vingad syns på Haga",
       "Perhonen Haagassa",
       "Silosiivin rientää perho"
-    ]
+    ],
+    "composer": "Carl Michael Bellman",
+    "lyricist": "Carl Michael Bellman"
   },
   {
     "id": "K17-S110",
@@ -8828,7 +8914,9 @@
       "For He’s a Jolly Good Fellow",
       "Hän ompi iloinen veikko",
       "Vanha veikko"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K07-S136",
@@ -8838,7 +8926,9 @@
       "For Me and My Gal",
       "Heipä korvalle nyt miehet",
       "Viimeinen lautta"
-    ]
+    ],
+    "composer": "George W. Meyer",
+    "lyricist": "Edgar Leslie; E. Ray Goetz"
   },
   {
     "id": "K20-S254",
@@ -8909,7 +8999,9 @@
       "Frank Mills",
       "Hän nimeltään on Frank Mills",
       "I met a boy called Frank Mills"
-    ]
+    ],
+    "composer": "Galt MacDermot",
+    "lyricist": "James Rado; Gerome Ragni"
   },
   {
     "id": "K09-S110",
@@ -8928,7 +9020,9 @@
     "aliases": [
       "Freight Train",
       "Pakoon, pakoon"
-    ]
+    ],
+    "composer": "Elizabeth Cotten",
+    "lyricist": "Elizabeth Cotten"
   },
   {
     "id": "K18-S264",
@@ -8938,7 +9032,9 @@
       "Frenesí",
       "On tullut fiestan aika Meksikoon",
       "Quiero que vivas sólo para mí"
-    ]
+    ],
+    "composer": "Alberto Domínguez",
+    "lyricist": "Alberto Domínguez"
   },
   {
     "id": "K22-S068",
@@ -8949,7 +9045,9 @@
       "Fritiof och Carmencita",
       "Samborombon on pikku kylä eikä muuta",
       "Samborombon, en liten by förutan gata"
-    ]
+    ],
+    "composer": "Evert Taube",
+    "lyricist": "Evert Taube"
   },
   {
     "id": "K03-S078",
@@ -8991,7 +9089,9 @@
       "Frosty The Snowman",
       "Hei, Kuuraparta",
       "Kuuraparta"
-    ]
+    ],
+    "composer": "Walter Rollins; Steve Nelson",
+    "lyricist": "Walter Rollins; Steve Nelson"
   },
   {
     "id": "K01-S016",
@@ -9024,7 +9124,9 @@
     "aliases": [
       "Funiculi, funicula",
       "Niin paljon maailmassa hassutellaan"
-    ]
+    ],
+    "composer": "Luigi Denza",
+    "lyricist": "Peppino Turco"
   },
   {
     "id": "K03-S062",
@@ -9109,7 +9211,9 @@
       "Ipaneman tyttö",
       "Tall and tan and young and lovely",
       "Viivähtää ei päätään kääntämään"
-    ]
+    ],
+    "composer": "Antônio Carlos Jobim",
+    "lyricist": "Vinicius de Moraes"
   },
   {
     "id": "K02-S186",
@@ -9118,7 +9222,9 @@
     "aliases": [
       "Gaudeamus igitur",
       "Riemuitkaamme"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K11-S232",
@@ -9149,7 +9255,9 @@
     "aliases": [
       "Give me that old time religion",
       "Old Time Religion"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K20-S025",
@@ -9180,7 +9288,9 @@
       "Kun Israel saapui Egyptiin",
       "Matkaan, Mooses",
       "When Israel was in Egyp’ lan’"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K07-S036",
@@ -9189,7 +9299,9 @@
     "aliases": [
       "Go, Tell It on the Mountain",
       "Vie vuorille tää viesti"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K18-S114",
@@ -9198,7 +9310,9 @@
     "aliases": [
       "God Bless the Child",
       "Them that’s got shall get"
-    ]
+    ],
+    "composer": "Billie Holiday; Arthur Herzog Jr.",
+    "lyricist": "Billie Holiday; Arthur Herzog Jr."
   },
   {
     "id": "K24-S192",
@@ -9209,7 +9323,9 @@
       "I may not always love you",
       "Rakkaus on katoavaa",
       "Taivas vain tietää"
-    ]
+    ],
+    "composer": "Brian Wilson",
+    "lyricist": "Brian Wilson; Tony Asher"
   },
   {
     "id": "K02-S159",
@@ -9218,7 +9334,9 @@
     "aliases": [
       "God Save the Queen",
       "Jumala, suojahas"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K19-S048",
@@ -9248,7 +9366,8 @@
       "Gold und Silber",
       "Kultaa ja hopeaa",
       "Nyt kultia aurinko rinteille luo"
-    ]
+    ],
+    "composer": "Franz Lehár"
   },
   {
     "id": "K02-S236",
@@ -9267,7 +9386,9 @@
     "aliases": [
       "Goldfinger",
       "Hän vaatii"
-    ]
+    ],
+    "composer": "John Barry",
+    "lyricist": "Leslie Bricusse; Anthony Newley"
   },
   {
     "id": "K07-S106",
@@ -9287,7 +9408,9 @@
     "aliases": [
       "Good Morning, Starshine",
       "Hei, tähdet taivaan"
-    ]
+    ],
+    "composer": "Galt MacDermot",
+    "lyricist": "James Rado; Gerome Ragni"
   },
   {
     "id": "K07-S232",
@@ -9341,7 +9464,9 @@
     "page": 119,
     "aliases": [
       "Granada"
-    ]
+    ],
+    "composer": "Agustín Lara",
+    "lyricist": "Agustín Lara"
   },
   {
     "id": "K17-S242",
@@ -9352,7 +9477,9 @@
       "Niin hauska on linna rakentaa",
       "Oh yes, I’m the great pretender",
       "Pilviinrakentaja"
-    ]
+    ],
+    "composer": "Buck Ram",
+    "lyricist": "Buck Ram"
   },
   {
     "id": "K21-S261",
@@ -9374,7 +9501,9 @@
       "On ihmeen hyvä tulla kotiin",
       "The old home town looks the same",
       "Vanha kotiseutu vain"
-    ]
+    ],
+    "composer": "Curly Putman",
+    "lyricist": "Curly Putman"
   },
   {
     "id": "K10-S276",
@@ -9384,7 +9513,9 @@
       "Greenback Dollar",
       "Suuret setelit",
       "Toisien mielestä lienen"
-    ]
+    ],
+    "composer": "Hoyt Axton; Ken Ramsey",
+    "lyricist": "Hoyt Axton; Ken Ramsey"
   },
   {
     "id": "K02-S222",
@@ -9394,7 +9525,9 @@
       "Greenfields",
       "Vie sävel muiston niittyjen luo",
       "Vihreät niityt"
-    ]
+    ],
+    "composer": "Richard Dehr; Frank Miller; Terry Gilkyson",
+    "lyricist": "Richard Dehr; Frank Miller; Terry Gilkyson"
   },
   {
     "id": "K01-S108",
@@ -9404,7 +9537,9 @@
       "Greensleeves",
       "Oh, ladye mine",
       "Sait multa kukkaset toukokuun"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K13-S244",
@@ -9432,7 +9567,9 @@
     "page": 114,
     "aliases": [
       "Guantanamera"
-    ]
+    ],
+    "composer": "Joseíto Fernández",
+    "lyricist": "José Martí"
   },
   {
     "id": "K03-S240",
@@ -9481,7 +9618,9 @@
       "Hyvästi jää",
       "Miks loitos luotain lähdit",
       "Warum bist du so ferne"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Wilhelm Müller"
   },
   {
     "id": "K11-S114",
@@ -9502,7 +9641,9 @@
       "Kehtolaulu (Brahms)",
       "Levon hetki nyt lyö",
       "Wiegenlied"
-    ]
+    ],
+    "composer": "Johannes Brahms",
+    "lyricist": "Traditional"
   },
   {
     "id": "K16-S104",
@@ -9589,7 +9730,9 @@
     "aliases": [
       "Habanera",
       "Niin on lemmellä herkät siivet"
-    ]
+    ],
+    "composer": "Georges Bizet",
+    "lyricist": "Henri Meilhac; Ludovic Halévy"
   },
   {
     "id": "K01-S194",
@@ -9837,7 +9980,9 @@
     "aliases": [
       "Happy Birthday",
       "Paljon onnea"
-    ]
+    ],
+    "composer": "Mildred J. Hill; Patty Hill",
+    "lyricist": "Patty Hill"
   },
   {
     "id": "K19-S092",
@@ -9857,7 +10002,9 @@
       "Happy Days Are Here Again",
       "Laula lailla lintujen",
       "Onnellisten päivien laulu"
-    ]
+    ],
+    "composer": "Milton Ager",
+    "lyricist": "Jack Yellen"
   },
   {
     "id": "K15-S041",
@@ -9879,7 +10026,9 @@
       "Imagine me and you, I do",
       "Kun joskus kohdataan, jos vaan",
       "Mikset mua huomaa"
-    ]
+    ],
+    "composer": "Garry Bonner; Alan Gordon",
+    "lyricist": "Garry Bonner; Alan Gordon"
   },
   {
     "id": "K10-S044",
@@ -9890,7 +10039,9 @@
       "Joulun rauhaa",
       "So this is Xmas",
       "Taas tultiin jouluun"
-    ]
+    ],
+    "composer": "John Lennon; Yoko Ono",
+    "lyricist": "John Lennon; Yoko Ono"
   },
   {
     "id": "K08-S130",
@@ -9936,7 +10087,8 @@
       "Harry Lime Theme, The",
       "Kaiku kautta puiston soi",
       "Kolmas mies"
-    ]
+    ],
+    "composer": "Anton Karas"
   },
   {
     "id": "K16-S188",
@@ -10037,7 +10189,9 @@
     "aliases": [
       "Hava Nagila",
       "Tulkaa nyt kaikki"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K19-S122",
@@ -10070,7 +10224,9 @@
       "Joskus myrsky ryöppyää",
       "Sataa",
       "Someone told me long ago"
-    ]
+    ],
+    "composer": "John Fogerty",
+    "lyricist": "John Fogerty"
   },
   {
     "id": "K17-S042",
@@ -10121,7 +10277,9 @@
       "Heartaches",
       "Sydänsuruja",
       "Viiltää, viiltää"
-    ]
+    ],
+    "composer": "Al Hoffman",
+    "lyricist": "John Klenner"
   },
   {
     "id": "K24-S222",
@@ -10350,7 +10508,9 @@
       "Näki poika ruususen (Schubert)",
       "Ruusu nummitiellä",
       "Sah ein Knab’ ein Röslein stehn (Schubert)"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Johann Wolfgang von Goethe"
   },
   {
     "id": "K01-S136",
@@ -10361,7 +10521,9 @@
       "Näki poika ruususen (Werner)",
       "Ruusu kankahalla",
       "Sah ein Knab’ ein Röslein (Werner)"
-    ]
+    ],
+    "composer": "Heinrich Werner",
+    "lyricist": "Johann Wolfgang von Goethe"
   },
   {
     "id": "K13-S014",
@@ -10451,7 +10613,8 @@
       "Heinzelmännchens Wachtparade",
       "Jo pipolakki ja punatakki",
       "Tonttuparaati"
-    ]
+    ],
+    "composer": "Kurt Noack"
   },
   {
     "id": "K02-S182",
@@ -10499,7 +10662,9 @@
     "aliases": [
       "Helan går",
       "Pohjaan siis"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K11-S041",
@@ -10544,7 +10709,9 @@
     "page": 231,
     "aliases": [
       "Hello (Adele)"
-    ]
+    ],
+    "composer": "Adele Adkins; Greg Kurstin",
+    "lyricist": "Adele Adkins; Greg Kurstin"
   },
   {
     "id": "K16-S221",
@@ -10565,7 +10732,9 @@
     "page": 258,
     "aliases": [
       "Hello, Dolly!"
-    ]
+    ],
+    "composer": "Jerry Herman",
+    "lyricist": "Jerry Herman"
   },
   {
     "id": "K12-S272",
@@ -10574,7 +10743,9 @@
     "aliases": [
       "Hello, Mary Lou",
       "No niin, Mary Lou"
-    ]
+    ],
+    "composer": "Gene Pitney",
+    "lyricist": "Gene Pitney"
   },
   {
     "id": "K24-S032",
@@ -10802,7 +10973,9 @@
       "Hevenu shalom",
       "Kaikki laulamaan",
       "Kun laulun kuulet sä illoin"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K18-S218",
@@ -10821,7 +10994,9 @@
       "He’s Got the Whole World in His Hands",
       "Koko maailma kädessään",
       "On koko maailma hänen kädessään"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K13-S267",
@@ -10849,7 +11024,9 @@
     "aliases": [
       "High Noon",
       "Mua älä hylkää"
-    ]
+    ],
+    "composer": "Dimitri Tiomkin",
+    "lyricist": "Ned Washington"
   },
   {
     "id": "K07-S041",
@@ -10868,7 +11045,9 @@
       "Hijo de la luna",
       "Kuutamon poika",
       "Tarinan toi tuulet"
-    ]
+    ],
+    "composer": "José María Cano",
+    "lyricist": "José María Cano"
   },
   {
     "id": "K13-S012",
