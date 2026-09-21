@@ -4139,7 +4139,9 @@
       "Caminito",
       "Muistojen polku",
       "Sinä aikojen uurtama polku"
-    ]
+    ],
+    "composer": "Juan de Dios Filiberto",
+    "lyricist": "Gabino Coria Peñaloza"
   },
   {
     "id": "K19-S104",
@@ -4354,7 +4356,9 @@
     "aliases": [
       "Carry Me Back to Old Virginny",
       "Takaisin kaipaan vanhaan kotiin"
-    ]
+    ],
+    "composer": "James A. Bland",
+    "lyricist": "James A. Bland"
   },
   {
     "id": "K23-S064",
@@ -4440,7 +4444,9 @@
       "Cerisier rose et pommier blanc",
       "Kaksi ruusua",
       "On luona kauniin vanhan kappelin"
-    ]
+    ],
+    "composer": "Louiguy",
+    "lyricist": "Jacques Larue"
   },
   {
     "id": "K19-S266",
@@ -4451,7 +4457,9 @@
       "Je m’baladais sur l’avenue",
       "Tässä ulkomailla käväisin",
       "Waterloo Road"
-    ]
+    ],
+    "composer": "Michael Wilshaw; Michael Antony Deighan",
+    "lyricist": "Pierre Delanoë"
   },
   {
     "id": "K15-S266",
@@ -4841,7 +4849,9 @@
       "Come prima",
       "Ensi kerran (Taccani – Paola)",
       "Yö tulvillaan on sadun tenhoa pelkkää"
-    ]
+    ],
+    "composer": "Vincenzo Di Paola; Sandro Taccani",
+    "lyricist": "Mario Panzeri"
   },
   {
     "id": "K14-S264",
