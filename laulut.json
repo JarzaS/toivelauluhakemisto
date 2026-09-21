@@ -571,7 +571,9 @@
       "Kaunis kotimaani",
       "Mun kaunis kotimaani",
       "Värmlandsvisan"
-    ]
+    ],
+    "composer": "Ruotsalainen kansansävelmä",
+    "lyricist": "Anders Fryxell; Fredrik August Dahlgren"
   },
   {
     "id": "K22-S040",
@@ -1188,7 +1190,9 @@
       "Akropolis, adieu",
       "Akropolis, nyt jää",
       "Sai syyskuu Ateenaan"
-    ]
+    ],
+    "composer": "Christian Bruhn",
+    "lyricist": "Georg Buschor"
   },
   {
     "id": "K04-S024",
@@ -1304,7 +1308,9 @@
       "All Alone Am I",
       "Min ton rotas ton ourano",
       "Yksin oon mä vain"
-    ]
+    ],
+    "composer": "Manos Hadjidakis",
+    "lyricist": "Arthur Altman"
   },
   {
     "id": "K18-S304",
@@ -1601,7 +1607,9 @@
       "Alouette",
       "Leivo pieni, lintu kaunokainen",
       "Leivonen"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "Kansanlaulu"
   },
   {
     "id": "K24-S050",
@@ -1757,7 +1765,9 @@
     "page": 228,
     "aliases": [
       "Amor, amor, amor"
-    ]
+    ],
+    "composer": "Gabriel Ruiz",
+    "lyricist": "Ricardo López Méndez"
   },
   {
     "id": "K15-S260",
@@ -1909,7 +1919,9 @@
       "Anema e core",
       "Tuntenut sinut olen, rakkain",
       "Vain sulle laulan näin"
-    ]
+    ],
+    "composer": "Salve D’Esposito",
+    "lyricist": "Tito Manlio"
   },
   {
     "id": "K12-S276",
@@ -1929,7 +1941,9 @@
       "Mustat enkelit",
       "Pintor nacido en mi tierra",
       "Vain luonto värejä se antaa"
-    ]
+    ],
+    "composer": "Manuel Álvarez Maciste",
+    "lyricist": "Andrés Eloy Blanco"
   },
   {
     "id": "K19-S263",
@@ -2047,7 +2061,9 @@
     "aliases": [
       "Anna – El negro zumbon",
       "Katseet kiihkeät ain seuranaan"
-    ]
+    ],
+    "composer": "Armando Trovajoli",
+    "lyricist": "Francesco Giordano"
   },
   {
     "id": "K11-S180",
@@ -23005,7 +23021,9 @@
       "On hyiset vuoret ne lumiset niin",
       "Taakse jää",
       "The snow glows white on the mountain"
-    ]
+    ],
+    "composer": "Kristen Anderson-Lopez; Robert Lopez",
+    "lyricist": "Kristen Anderson-Lopez; Robert Lopez"
   },
   {
     "id": "K22-S204",
@@ -32787,7 +32805,9 @@
     "page": 128,
     "aliases": [
       "Wonderful Copenhagen"
-    ]
+    ],
+    "composer": "Frank Loesser",
+    "lyricist": "Frank Loesser"
   },
   {
     "id": "K08-S097",
