@@ -676,7 +676,9 @@
     "aliases": [
       "Africa",
       "Kuusamo"
-    ]
+    ],
+    "composer": "David Paich; Jeff Porcaro",
+    "lyricist": "David Paich; Jeff Porcaro"
   },
   {
     "id": "K21-S242",
@@ -687,7 +689,9 @@
       "Only yesterday",
       "Se kuuluu eiliseen",
       "Yksinäinen ollut on jokainen"
-    ]
+    ],
+    "composer": "Carole King",
+    "lyricist": "Carole King"
   },
   {
     "id": "K11-S102",
@@ -1689,7 +1693,8 @@
       "American Patrol",
       "Kotiharjun päällä",
       "Tirili deidei tralla lalla"
-    ]
+    ],
+    "composer": "F. W. Meacham"
   },
   {
     "id": "K12-S300",
@@ -1740,7 +1745,9 @@
       "Guter Mond, du gehst so stille",
       "Laulu kuulle",
       "Sinä kuu, kun saat niin hiljaa"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Johann Wolfgang von Goethe"
   },
   {
     "id": "K04-S123",
@@ -1809,7 +1816,9 @@
       "Hän sai mun sydämein",
       "I give her all my love",
       "Olet rakkain"
-    ]
+    ],
+    "composer": "John Lennon; Paul McCartney",
+    "lyricist": "John Lennon; Paul McCartney"
   },
   {
     "id": "K09-S264",
@@ -2049,7 +2058,9 @@
       "Sinut aistin kuin tuulen",
       "Sinä tunteeni täytät",
       "You fill up my senses"
-    ]
+    ],
+    "composer": "John Denver",
+    "lyricist": "John Denver"
   },
   {
     "id": "K01-S027",
@@ -2075,7 +2086,9 @@
     "aliases": [
       "Another Day in Paradise",
       "She calls out to the man on the street"
-    ]
+    ],
+    "composer": "Phil Collins",
+    "lyricist": "Phil Collins"
   },
   {
     "id": "K14-S282",
@@ -2134,7 +2147,9 @@
     "aliases": [
       "Anything Goes",
       "Times have changed, and we’ve often rewound"
-    ]
+    ],
+    "composer": "Cole Porter",
+    "lyricist": "Cole Porter"
   },
   {
     "id": "K18-S052",
@@ -2161,7 +2176,9 @@
       "Has anybody here seen April",
       "Ken kerrankaan on nähnyt kevään",
       "Rakkautta huhtikuussa"
-    ]
+    ],
+    "composer": "Sammy Fain",
+    "lyricist": "Paul Francis Webster"
   },
   {
     "id": "K19-S268",
@@ -2192,7 +2209,9 @@
       "Aquarius",
       "Kulkee kuu seitsemänteen huoneeseen",
       "When the Moon is in the seventh house"
-    ]
+    ],
+    "composer": "Galt MacDermot",
+    "lyricist": "James Rado; Gerome Ragni"
   },
   {
     "id": "K22-S080",
@@ -3177,7 +3196,9 @@
       "Day-O",
       "Haaksirikko",
       "Me banskulastia tuotiin Suomeen"
-    ]
+    ],
+    "composer": "Traditional",
+    "lyricist": "Traditional"
   },
   {
     "id": "K19-S124",
@@ -3239,7 +3260,9 @@
     "aliases": [
       "Be My Love",
       "Rakkahin (Brodszky)"
-    ]
+    ],
+    "composer": "Nicholas Brodszky",
+    "lyricist": "Sammy Cahn"
   },
   {
     "id": "K15-S264",
@@ -3259,7 +3282,9 @@
       "Beat Goes on, The",
       "Taas matkustan, taas matkustan",
       "Vaikka paljain jaloin"
-    ]
+    ],
+    "composer": "Sonny Bono",
+    "lyricist": "Sonny Bono"
   },
   {
     "id": "K24-S196",
@@ -3324,7 +3349,9 @@
       "Mikä hyppy, mikä huiske",
       "Skoda lasky",
       "Tonttujen joulupolkka"
-    ]
+    ],
+    "composer": "Jaromír Vejvoda",
+    "lyricist": "Václav Zeman"
   },
   {
     "id": "K24-S208",
@@ -3383,7 +3410,8 @@
     "aliases": [
       "Bella ciao",
       "Erään kerran, näin kertoo laulu"
-    ]
+    ],
+    "composer": "Traditional"
   },
   {
     "id": "K14-S106",
@@ -3966,7 +3994,9 @@
       "Cabaret",
       "Turhaan jäät kotiisi murjottamaan",
       "What good is sitting alone"
-    ]
+    ],
+    "composer": "John Kander",
+    "lyricist": "Fred Ebb"
   },
   {
     "id": "K17-S298",
@@ -3975,7 +4005,9 @@
     "aliases": [
       "California Blue",
       "Raatanut oon päivän pilvisen"
-    ]
+    ],
+    "composer": "Roy Orbison; Jeff Lynne; Tom Petty",
+    "lyricist": "Roy Orbison; Jeff Lynne; Tom Petty"
   },
   {
     "id": "K24-S052",
@@ -3997,7 +4029,9 @@
       "I Roslagens famn",
       "Kas, Suursaaren helmassa",
       "Perämies-Kallen valssi"
-    ]
+    ],
+    "composer": "Evert Taube",
+    "lyricist": "Evert Taube"
   },
   {
     "id": "K16-S236",
@@ -4016,7 +4050,9 @@
     "aliases": [
       "Can You Feel the Love Tonight",
       "There’s a calm surrender"
-    ]
+    ],
+    "composer": "Elton John",
+    "lyricist": "Tim Rice"
   },
   {
     "id": "K19-S284",
@@ -4038,7 +4074,9 @@
       "Can't Smile Without You",
       "Sua ilman laulaa en voi",
       "You know I can't smile without you"
-    ]
+    ],
+    "composer": "Chris Arnold; David Martin; Geoff Morrow",
+    "lyricist": "Chris Arnold; David Martin; Geoff Morrow"
   },
   {
     "id": "K11-S062",
@@ -4047,7 +4085,8 @@
     "aliases": [
       "Cancan",
       "Viime yönä unta näin"
-    ]
+    ],
+    "composer": "Jacques Offenbach"
   },
   {
     "id": "K24-S212",
@@ -4091,7 +4130,9 @@
       "Jos alkaa saan uudelleen",
       "Kaukaakin luokses kiitäisin",
       "Wise men say only fools rush in"
-    ]
+    ],
+    "composer": "Hugo Peretti; Luigi Creatore; George David Weiss",
+    "lyricist": "Hugo Peretti; Luigi Creatore; George David Weiss"
   },
   {
     "id": "K09-S072",
@@ -4102,7 +4143,9 @@
       "Fish got to swim and birds got to fly",
       "Lintuset luotiin laulelemaan",
       "Luotaan lähde en milloinkaan"
-    ]
+    ],
+    "composer": "Jerome Kern",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K16-S278",
@@ -4112,7 +4155,9 @@
       "Can’t Take My Eyes Off of You",
       "Kai vielä katsoa saa",
       "You’re just too good to be true"
-    ]
+    ],
+    "composer": "Bob Crewe; Bob Gaudio",
+    "lyricist": "Bob Crewe; Bob Gaudio"
   },
   {
     "id": "K08-S200",
@@ -4141,7 +4186,9 @@
       "Caravan",
       "Karavaani",
       "Maa on pelkkää hiekkaa polttavaa"
-    ]
+    ],
+    "composer": "Duke Ellington; Juan Tizol",
+    "lyricist": "Irving Mills"
   },
   {
     "id": "K23-S224",
@@ -4152,7 +4199,9 @@
       "I feel so unsure",
       "Kuiskaus",
       "Valheet iltaan jää"
-    ]
+    ],
+    "composer": "George Michael; Andrew Ridgeley",
+    "lyricist": "George Michael; Andrew Ridgeley"
   },
   {
     "id": "K11-S256",
@@ -4217,7 +4266,9 @@
       "Caruso",
       "Kun tuuli leikkii hiuksissa",
       "Qui do ve il mare luccica"
-    ]
+    ],
+    "composer": "Lucio Dalla",
+    "lyricist": "Lucio Dalla"
   },
   {
     "id": "K18-S112",
@@ -4237,7 +4288,9 @@
       "In the chilly hours and minutes",
       "Nyt yön on kylmät tunnit",
       "Tuuli kuiskaa vain"
-    ]
+    ],
+    "composer": "Donovan",
+    "lyricist": "Donovan"
   },
   {
     "id": "K19-S234",
@@ -4266,7 +4319,8 @@
     "aliases": [
       "Cavatina (The Deer Hunter)",
       "Hän jäi muistoihin"
-    ]
+    ],
+    "composer": "Stanley Myers"
   },
   {
     "id": "K17-S094",
@@ -4316,7 +4370,9 @@
       "Päivästä muisto jää",
       "When we played our charade",
       "Yö katseessasi"
-    ]
+    ],
+    "composer": "Henry Mancini",
+    "lyricist": "Johnny Mercer"
   },
   {
     "id": "K21-S227",
@@ -4378,7 +4434,9 @@
       "Pardon me, boy",
       "Rautainen tie ja vanha Ukkopekka Uu Uu",
       "Ukkopekka Uu Uu"
-    ]
+    ],
+    "composer": "Harry Warren",
+    "lyricist": "Mack Gordon"
   },
   {
     "id": "K17-S068",
@@ -4387,7 +4445,9 @@
     "aliases": [
       "Che farò senza Euridice",
       "Nyt on poissa Eurydike"
-    ]
+    ],
+    "composer": "Christoph Willibald Gluck",
+    "lyricist": "Ranieri de’ Calzabigi"
   },
   {
     "id": "K19-S069",
@@ -4396,7 +4456,9 @@
     "aliases": [
       "Che gelida manina",
       "On kätenne niin kylmä"
-    ]
+    ],
+    "composer": "Giacomo Puccini",
+    "lyricist": "Giuseppe Giacosa; Luigi Illica"
   },
   {
     "id": "K06-S216",
@@ -4417,7 +4479,9 @@
       "Heaven, I’m in heaven",
       "Poski poskella",
       "Siivin, linnun siivin"
-    ]
+    ],
+    "composer": "Irving Berlin",
+    "lyricist": "Irving Berlin"
   },
   {
     "id": "K15-S262",
@@ -4449,7 +4513,9 @@
       "Christmas Song, The",
       "Hiljaa leijaa maahan hiutaleet",
       "Joululaulu (Tormé)"
-    ]
+    ],
+    "composer": "Mel Tormé; Robert Wells",
+    "lyricist": "Mel Tormé; Robert Wells"
   },
   {
     "id": "K03-S119",
@@ -4478,7 +4544,9 @@
     "aliases": [
       "Chim Chim Cher-ee",
       "Chim chiminey"
-    ]
+    ],
+    "composer": "Richard M. Sherman; Robert B. Sherman",
+    "lyricist": "Richard M. Sherman; Robert B. Sherman"
   },
   {
     "id": "K15-S047",
@@ -4488,7 +4556,9 @@
       "Chipmunk Song, The",
       "Joulu, joulu, joulu luo",
       "Pikkuoravien joululaulu"
-    ]
+    ],
+    "composer": "Ross Bagdasarian",
+    "lyricist": "Ross Bagdasarian"
   },
   {
     "id": "K22-S206",
@@ -4498,7 +4568,9 @@
       "Chirpy Chirpy Cheep Cheep",
       "Tuuli puissa soi, syksy muutti sään",
       "Where's your momma gone"
-    ]
+    ],
+    "composer": "Lally Stott",
+    "lyricist": "Lally Stott"
   },
   {
     "id": "K13-S242",
@@ -4549,7 +4621,9 @@
       "Ciao, ciao, bambina",
       "Kuuletko, linnut jo laulunsa heittää",
       "Piove"
-    ]
+    ],
+    "composer": "Domenico Modugno",
+    "lyricist": "Domenico Modugno; Franco Migliacci"
   },
   {
     "id": "K01-S142",
@@ -4585,7 +4659,9 @@
     "page": 105,
     "aliases": [
       "City of Stars (Humming)"
-    ]
+    ],
+    "composer": "Justin Hurwitz",
+    "lyricist": "Benj Pasek; Justin Paul"
   },
   {
     "id": "K20-S238",
@@ -4593,7 +4669,9 @@
     "page": 238,
     "aliases": [
       "Clair"
-    ]
+    ],
+    "composer": "Gilbert O’Sullivan",
+    "lyricist": "Gilbert O’Sullivan"
   },
   {
     "id": "K02-S162",
@@ -4689,7 +4767,9 @@
       "Niin onnellinen oon",
       "No one can buy tomorrow",
       "Onnemme siemen itää"
-    ]
+    ],
+    "composer": "Henry Mancini",
+    "lyricist": "Norman Gimbel"
   },
   {
     "id": "K15-S149",
@@ -4700,7 +4780,9 @@
       "Kun et ole luonain",
       "Quando sono solo sogno",
       "Tää yö"
-    ]
+    ],
+    "composer": "Francesco Sartori",
+    "lyricist": "Lucio Quarantotto"
   },
   {
     "id": "K16-S148",
@@ -4711,7 +4793,9 @@
       "Enhän ollut vielä kovin vanha",
       "Puuvillapellot",
       "When I was a little bitty baby"
-    ]
+    ],
+    "composer": "Huddie Ledbetter",
+    "lyricist": "Huddie Ledbetter"
   },
   {
     "id": "K13-S276",
@@ -4721,7 +4805,9 @@
       "Country Comfort",
       "Maalaismaisema",
       "Pian tippuu jälleen lehdet pihapuun"
-    ]
+    ],
+    "composer": "Elton John",
+    "lyricist": "Bernie Taupin"
   },
   {
     "id": "K09-S049",
@@ -4750,7 +4836,9 @@
     "aliases": [
       "Crazy",
       "Leikit"
-    ]
+    ],
+    "composer": "Willie Nelson",
+    "lyricist": "Willie Nelson"
   },
   {
     "id": "K15-S305",
@@ -4760,7 +4848,9 @@
       "Crocodile Rock",
       "Krokotiili-rock",
       "Muistan vielä, vuonna viiskytkuus"
-    ]
+    ],
+    "composer": "Elton John",
+    "lyricist": "Bernie Taupin"
   },
   {
     "id": "K10-S258",
@@ -4770,7 +4860,9 @@
       "Cry Me a River",
       "Joet tulvimaan itke",
       "Kun nyt olet yksin"
-    ]
+    ],
+    "composer": "Arthur Hamilton",
+    "lyricist": "Arthur Hamilton"
   },
   {
     "id": "K14-S272",
@@ -4792,7 +4884,9 @@
       "Et nää sä milloinkaan",
       "I’ll never let you see",
       "Yksin kuljen sateeseen"
-    ]
+    ],
+    "composer": "Carole King",
+    "lyricist": "Howard Greenfield"
   },
   {
     "id": "K13-S250",
@@ -4915,7 +5009,9 @@
       "Isä, kulje hitaammin",
       "Mä tunsin rakkauden lakastuneen",
       "The love between the two of us was dyin’"
-    ]
+    ],
+    "composer": "Peter Callander; Geoff Stephens",
+    "lyricist": "Peter Callander; Geoff Stephens"
   },
   {
     "id": "K07-S122",
@@ -4945,7 +5041,9 @@
       "Dance Me to the End of Love",
       "Tanssi loppuun rakkauden",
       "Tanssita mua ikuisesti viuluin palavin"
-    ]
+    ],
+    "composer": "Leonard Cohen",
+    "lyricist": "Leonard Cohen"
   },
   {
     "id": "K16-S292",
@@ -4977,7 +5075,9 @@
     "aliases": [
       "Danke für diesen guten Morgen",
       "Kiitos"
-    ]
+    ],
+    "composer": "Martin Gotthard Schneider",
+    "lyricist": "Martin Gotthard Schneider"
   },
   {
     "id": "K11-S128",
@@ -4987,7 +5087,9 @@
       "Dansevise",
       "Kun kaukaa tuuli saapuu",
       "Tanssilaulu"
-    ]
+    ],
+    "composer": "Otto Francker",
+    "lyricist": "Sejr Volmer-Sørensen"
   },
   {
     "id": "K22-S192",
@@ -5071,7 +5173,9 @@
       "Einigkeit und Recht und Freiheit",
       "Saksalaisten laulu",
       "Saksanmaalle onnen, turvan"
-    ]
+    ],
+    "composer": "Joseph Haydn",
+    "lyricist": "August Heinrich Hoffmann von Fallersleben"
   },
   {
     "id": "K13-S092",
@@ -5203,7 +5307,9 @@
     "aliases": [
       "Dein ist mein ganzes Herz",
       "Sun on mun sydämein"
-    ]
+    ],
+    "composer": "Franz Lehár",
+    "lyricist": "Ludwig Herzer; Fritz Löhner-Beda"
   },
   {
     "id": "K08-S238",
@@ -5212,7 +5318,9 @@
     "aliases": [
       "Delilah",
       "Kaihdinta vasten näin varjojen"
-    ]
+    ],
+    "composer": "Les Reed",
+    "lyricist": "Barry Mason"
   },
   {
     "id": "K19-S282",
@@ -5327,7 +5435,9 @@
       "Der Vogelfänger",
       "Linnunpyydystäjä",
       "Ma linnustaja olen vain"
-    ]
+    ],
+    "composer": "Wolfgang Amadeus Mozart",
+    "lyricist": "Emanuel Schikaneder"
   },
   {
     "id": "K11-S270",
@@ -5338,7 +5448,9 @@
       "Epävireiset sydämet",
       "Love is like a never-ending melody",
       "Rakkaus on laulu kahden sydämen"
-    ]
+    ],
+    "composer": "Antônio Carlos Jobim",
+    "lyricist": "Newton Mendonça"
   },
   {
     "id": "K09-S068",
@@ -5473,7 +5585,9 @@
       "Di Provenza il mar",
       "Eikö synnyinseudulles",
       "Germontin romanssi"
-    ]
+    ],
+    "composer": "Giuseppe Verdi",
+    "lyricist": "Francesco Maria Piave"
   },
   {
     "id": "K24-S076",
@@ -5482,7 +5596,9 @@
     "aliases": [
       "Di quella pira",
       "Liekkeihin piirtyy"
-    ]
+    ],
+    "composer": "Giuseppe Verdi",
+    "lyricist": "Salvadore Cammarano"
   },
   {
     "id": "K14-S104",
@@ -5493,7 +5609,9 @@
       "Luotan timantteihin vain",
       "On lemmen tähden kuolemaan",
       "The French are glad to die for love"
-    ]
+    ],
+    "composer": "Jule Styne",
+    "lyricist": "Leo Robin"
   },
   {
     "id": "K18-S094",
@@ -5501,7 +5619,9 @@
     "page": 94,
     "aliases": [
       "Diamonds Are Forever"
-    ]
+    ],
+    "composer": "John Barry",
+    "lyricist": "Don Black"
   },
   {
     "id": "K13-S238",
@@ -5511,7 +5631,9 @@
       "Diana",
       "I’m so young and you’re so old",
       "Päivittäin saan kuulla sen"
-    ]
+    ],
+    "composer": "Paul Anka",
+    "lyricist": "Paul Anka"
   },
   {
     "id": "K04-S150",
@@ -5541,7 +5663,9 @@
       "Forelli",
       "In einem Bächlein helle",
       "Jo virta kirkas hohti"
-    ]
+    ],
+    "composer": "Franz Schubert",
+    "lyricist": "Christian Friedrich Daniel Schubart"
   },
   {
     "id": "K12-S265",
@@ -5585,7 +5709,9 @@
       "Die Moritat von Mackie Messer",
       "Hailla hampaat julmat, suuret",
       "Puukko-Mackie"
-    ]
+    ],
+    "composer": "Kurt Weill",
+    "lyricist": "Bertolt Brecht"
   },
   {
     "id": "K02-S096",
@@ -5655,7 +5781,9 @@
       "I met my love by the gasworks croft",
       "Kun kuljeksin alla lehmusten",
       "Voi kurjaa kaupunkiain"
-    ]
+    ],
+    "composer": "Ewan MacColl",
+    "lyricist": "Ewan MacColl"
   },
   {
     "id": "K12-S131",
@@ -5686,7 +5814,9 @@
       "Do on alku nuottien",
       "Do re mi",
       "Doe – a deer, a female deer"
-    ]
+    ],
+    "composer": "Richard Rodgers",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K24-S279",
@@ -5695,7 +5825,9 @@
     "aliases": [
       "Do They Know It’s Christmas?",
       "It’s Christmas time, there’s no need"
-    ]
+    ],
+    "composer": "Bob Geldof; Midge Ure",
+    "lyricist": "Bob Geldof; Midge Ure"
   },
   {
     "id": "K23-S088",
@@ -5731,7 +5863,9 @@
     "aliases": [
       "Dona Dona",
       "Silloin paju vaan lauloi onneaan"
-    ]
+    ],
+    "composer": "Sholom Secunda",
+    "lyricist": "Aaron Zeitlin"
   },
   {
     "id": "K09-S098",
@@ -5742,7 +5876,9 @@
       "En tiedä, kuinka sen kertoisin",
       "Et itkeä saa, Argentiina",
       "It won’t be easy"
-    ]
+    ],
+    "composer": "Andrew Lloyd Webber",
+    "lyricist": "Tim Rice"
   },
   {
     "id": "K16-S296",
@@ -5842,7 +5978,9 @@
       "Downtown",
       "Kauan",
       "Toisien kanssa kun sä tanssit"
-    ]
+    ],
+    "composer": "Tony Hatch",
+    "lyricist": "Tony Hatch"
   },
   {
     "id": "K12-S242",
@@ -5865,7 +6003,9 @@
       "Dream Is a Wish Your Heart Makes, A",
       "Kun uinut sä unta syvää",
       "Nukkuessasi"
-    ]
+    ],
+    "composer": "Mack David; Al Hoffman; Jerry Livingston",
+    "lyricist": "Mack David; Al Hoffman; Jerry Livingston"
   },
   {
     "id": "K23-S238",
@@ -6142,7 +6282,9 @@
     "page": 100,
     "aliases": [
       "Edelweiss"
-    ]
+    ],
+    "composer": "Richard Rodgers",
+    "lyricist": "Oscar Hammerstein II"
   },
   {
     "id": "K14-S046",
@@ -6359,7 +6501,8 @@
       "Ei koskaan sunnuntaina",
       "Never on Sunday",
       "Voit suukon minulta sä saada"
-    ]
+    ],
+    "composer": "Manos Hadjidakis"
   },
   {
     "id": "K06-S204",
@@ -6766,7 +6909,9 @@
     "aliases": [
       "Ein Mädchen oder Weibchen",
       "Jos neidon taikka vaimon"
-    ]
+    ],
+    "composer": "Wolfgang Amadeus Mozart",
+    "lyricist": "Emanuel Schikaneder"
   },
   {
     "id": "K10-S082",
@@ -6865,7 +7010,8 @@
       "I’d rather be a sparrow than a snail",
       "Kun myrsky uhkaa, pilvet mustat on",
       "Vain kotka lentää aurinkoon"
-    ]
+    ],
+    "composer": "Daniel Alomía Robles"
   },
   {
     "id": "K19-S256",
@@ -6894,7 +7040,9 @@
     "page": 178,
     "aliases": [
       "Eldankajärven jää"
-    ]
+    ],
+    "composer": "Georg de Godzinsky",
+    "lyricist": "Erkki Tiesmaa"
   },
   {
     "id": "K01-S082",
@@ -6906,7 +7054,9 @@
       "Kaikki on vinksin vonksin",
       "Peppi Pitkätossu",
       "Yksi pieni elefantti marssi näin"
-    ]
+    ],
+    "composer": "Georg Malmstén",
+    "lyricist": "Georg Malmstén"
   },
   {
     "id": "K04-S038",
@@ -6924,7 +7074,8 @@
     "aliases": [
       "Elegia (Massenet)",
       "Oi aika sä entinen"
-    ]
+    ],
+    "composer": "Jules Massenet"
   },
   {
     "id": "K04-S026",
@@ -6943,7 +7094,8 @@
       "Elisabeth Serenade",
       "Elisabeth-serenadi",
       "Kuulethan, Elisabeth"
-    ]
+    ],
+    "composer": "Ronald Binge"
   },
   {
     "id": "K22-S064",
@@ -7064,7 +7216,9 @@
     "aliases": [
       "Eläköön elämä",
       "Kaupungissa on yö"
-    ]
+    ],
+    "composer": "Violeta Parra",
+    "lyricist": "Violeta Parra"
   },
   {
     "id": "K03-S121",
@@ -7333,7 +7487,9 @@
     "aliases": [
       "En etsi valtaa, loistoa",
       "Giv mig ej glans, ej guld, ej prakt"
-    ]
+    ],
+    "composer": "Jean Sibelius",
+    "lyricist": "Zacharias Topelius"
   },
   {
     "id": "K05-S152",
@@ -7641,7 +7797,9 @@
       "Maailmain",
       "Miksi voi aurinko loistaa?",
       "Why does the sun go on shining?"
-    ]
+    ],
+    "composer": "Arthur Kent",
+    "lyricist": "Sylvia Dee"
   },
   {
     "id": "K23-S041",
@@ -7662,7 +7820,9 @@
       "Mun rakkautein",
       "My love, there's only you in my life",
       "Rakkain, ainut sä oot päällä maan"
-    ]
+    ],
+    "composer": "Lionel Richie",
+    "lyricist": "Lionel Richie"
   },
   {
     "id": "K22-S164",
@@ -7688,7 +7848,9 @@
     "page": 68,
     "aliases": [
       "Enkeli taivaan"
-    ]
+    ],
+    "composer": "Martin Luther",
+    "lyricist": "Martin Luther"
   },
   {
     "id": "K08-S047",
@@ -7888,7 +8050,9 @@
       "Eres tu",
       "Kuin lupaus onnen olla voit",
       "Runoni kaunein olla voit"
-    ]
+    ],
+    "composer": "Juan Carlos Calderón",
+    "lyricist": "Juan Carlos Calderón"
   },
   {
     "id": "K08-S018",
@@ -8246,7 +8410,9 @@
     "aliases": [
       "Everybody Loves Somebody",
       "Jokaiselle joku on kai rakkain"
-    ]
+    ],
+    "composer": "Ken Lane",
+    "lyricist": "Irving Taylor"
   },
   {
     "id": "K20-S265",
@@ -8306,7 +8472,8 @@
     "aliases": [
       "Exodus",
       "Sain kauniin maan"
-    ]
+    ],
+    "composer": "Ernest Gold"
   },
   {
     "id": "K23-S112",
