@@ -10042,7 +10042,9 @@
     "aliases": [
       "Happy",
       "It might seem crazy what I’m ’bout to say"
-    ]
+    ],
+    "composer": "Pharrell Williams",
+    "lyricist": "Pharrell Williams"
   },
   {
     "id": "K02-S123",
@@ -11366,7 +11368,9 @@
       "If you want to learn the history",
       "Mun on tarinani satu rakkauden",
       "Rakkauden satu"
-    ]
+    ],
+    "composer": "Carlos Eleta Almarán",
+    "lyricist": "Carlos Eleta Almarán"
   },
   {
     "id": "K15-S282",
@@ -11375,7 +11379,9 @@
     "aliases": [
       "Hit the Road, Jack",
       "Painu pois, Jack"
-    ]
+    ],
+    "composer": "Percy Mayfield",
+    "lyricist": "Percy Mayfield"
   },
   {
     "id": "K22-S244",
@@ -11465,7 +11471,9 @@
       "Jos linnojenkin loisto",
       "Koti kultainen",
       "Mid pleasures and palaces"
-    ]
+    ],
+    "composer": "Henry Bishop",
+    "lyricist": "John Howard Payne"
   },
   {
     "id": "K20-S268",
@@ -11476,7 +11484,9 @@
       "If you search for tenderness",
       "Jos sä etsit hellyyttä",
       "Rehellisyys"
-    ]
+    ],
+    "composer": "Billy Joel",
+    "lyricist": "Billy Joel"
   },
   {
     "id": "K11-S268",
@@ -11959,7 +11969,9 @@
       "Hymni rakkaudelle",
       "Le ciel bleu sur nous peut s’ecrouler",
       "Sinitaivas vaikka katoaa"
-    ]
+    ],
+    "composer": "Marguerite Monnot",
+    "lyricist": "Édith Piaf"
   },
   {
     "id": "K06-S087",
@@ -12588,7 +12600,9 @@
     "aliases": [
       "I Am What I Am",
       "Mä oon mikä oon (Herman)"
-    ]
+    ],
+    "composer": "Jerry Herman",
+    "lyricist": "Jerry Herman"
   },
   {
     "id": "K02-S152",
@@ -12630,7 +12644,9 @@
       "Love me or leave me (I Do, I Do, I Do)",
       "Päätöstä kun teet",
       "Vai niin, vai niin"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus; Stig Anderson",
+    "lyricist": "Benny Andersson; Björn Ulvaeus; Stig Anderson"
   },
   {
     "id": "K16-S299",
@@ -12662,7 +12678,9 @@
     "aliases": [
       "I Feel Pretty",
       "Juuri tänään"
-    ]
+    ],
+    "composer": "Leonard Bernstein",
+    "lyricist": "Stephen Sondheim"
   },
   {
     "id": "K22-S223",
@@ -12746,7 +12764,9 @@
     "aliases": [
       "I Know Him So Well",
       "Nothing is so good it lasts eternally"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Tim Rice"
   },
   {
     "id": "K20-S078",
@@ -13138,7 +13158,9 @@
     "aliases": [
       "If I Were a Rich Man",
       "Rikas mies jos oisin"
-    ]
+    ],
+    "composer": "Jerry Bock",
+    "lyricist": "Sheldon Harnick"
   },
   {
     "id": "K08-S054",
@@ -13166,7 +13188,9 @@
     "aliases": [
       "If You Leave Me Now",
       "Jos sä lähdet pois"
-    ]
+    ],
+    "composer": "Peter Cetera",
+    "lyricist": "Peter Cetera"
   },
   {
     "id": "K16-S234",
