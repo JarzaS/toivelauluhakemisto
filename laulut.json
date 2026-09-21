@@ -2556,7 +2556,9 @@
       "Kai viskiruukun saan",
       "Kun Kilmagenny-vuorten yli matkallani kuljin",
       "Whiskey in the Jar"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "Tuntematon (perinteinen)"
   },
   {
     "id": "K22-S102",
@@ -9742,7 +9744,9 @@
       "Muistatko sä meren laajan",
       "Palaja Sorrentoon",
       "Torna a Surriento"
-    ]
+    ],
+    "composer": "Ernesto De Curtis",
+    "lyricist": "Giambattista De Curtis"
   },
   {
     "id": "K22-S110",
@@ -9874,7 +9878,9 @@
       "Look at me",
       "Misty",
       "Ystäväin, katsees käännä"
-    ]
+    ],
+    "composer": "Erroll Garner",
+    "lyricist": "Johnny Burke"
   },
   {
     "id": "K06-S080",
@@ -11549,7 +11555,9 @@
       "Home on the Range",
       "Oh, give me a home",
       "Oon kotona taas"
-    ]
+    ],
+    "composer": "Daniel E. Kelley",
+    "lyricist": "Brewster M. Higley"
   },
   {
     "id": "K02-S158",
@@ -15564,7 +15572,9 @@
     "aliases": [
       "Joosua Jerikossa",
       "Joshua Fit the Battle of Jericho"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "Tuntematon (spirituaali)"
   },
   {
     "id": "K18-S230",
@@ -18414,7 +18424,9 @@
       "Minä keltaruusun kerran",
       "There’s a yellow rose in Texas (Trad.)",
       "Yellow Rose of Texas (Trad.)"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "Tuntematon (perinteinen)"
   },
   {
     "id": "K16-S100",
@@ -20616,7 +20628,9 @@
       "Kun aavalle meren",
       "Kyyhkynen",
       "La Paloma"
-    ]
+    ],
+    "composer": "Sebastián Iradier",
+    "lyricist": "Sebastián Iradier"
   },
   {
     "id": "K13-S232",
@@ -27038,7 +27052,9 @@
       "Nosta lippu salkoon",
       "Nään tutun tien nyt edessäin",
       "Tie a Yellow Ribbon ‘round the Ole Oak Tree"
-    ]
+    ],
+    "composer": "Irwin Levine; L. Russell Brown",
+    "lyricist": "Irwin Levine; L. Russell Brown"
   },
   {
     "id": "K07-S046",
@@ -27860,7 +27876,9 @@
       "Tie kulkee pitkin Joutsenvirtaa",
       "Vanhempain koti",
       "Way down upon de Swanee ribber"
-    ]
+    ],
+    "composer": "Stephen Foster",
+    "lyricist": "Stephen Foster"
   },
   {
     "id": "K14-S240",
@@ -31925,7 +31943,9 @@
     "page": 115,
     "aliases": [
       "This Land Is Your Land"
-    ]
+    ],
+    "composer": "Woody Guthrie",
+    "lyricist": "Woody Guthrie"
   },
   {
     "id": "K12-S036",
