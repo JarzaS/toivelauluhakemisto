@@ -1096,7 +1096,9 @@
     "aliases": [
       "Ajetaan tandemilla",
       "Minä tulin viidakosta"
-    ]
+    ],
+    "composer": "Leo Friman",
+    "lyricist": "Heikki Harma"
   },
   {
     "id": "K02-S045",
@@ -1205,7 +1207,9 @@
     "aliases": [
       "Albatrossi",
       "Nään vanhan ”Tornatorin”"
-    ]
+    ],
+    "composer": "Juha Vainio",
+    "lyricist": "Juha Vainio"
   },
   {
     "id": "K07-S018",
@@ -1977,7 +1981,9 @@
     "page": 230,
     "aliases": [
       "Anna mulle tähtitaivas"
-    ]
+    ],
+    "composer": "Jukka Kuoppamäki",
+    "lyricist": "Jukka Kuoppamäki"
   },
   {
     "id": "K22-S152",
@@ -2399,7 +2405,9 @@
       "Arrivederci, Roma",
       "Oi, saavu jälleen Roomaan",
       "Saavuthan jälleen Roomaan"
-    ]
+    ],
+    "composer": "Renato Rascel",
+    "lyricist": "Pietro Garinei; Sandro Giovannini"
   },
   {
     "id": "K22-S108",
@@ -2941,7 +2949,9 @@
     "page": 222,
     "aliases": [
       "Avaa sydämesi mulle"
-    ]
+    ],
+    "composer": "Matti Siitonen",
+    "lyricist": "Vexi Salmi"
   },
   {
     "id": "K11-S022",
