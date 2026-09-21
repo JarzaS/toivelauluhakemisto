@@ -9952,7 +9952,8 @@
       "In a Monastery Garden",
       "Luostarin puutarhassa",
       "Through the misty twilight falling"
-    ]
+    ],
+    "composer": "Albert Ketèlbey"
   },
   {
     "id": "K21-S020",
@@ -15391,7 +15392,9 @@
       "Maxwell's Silver Hammer",
       "Pauli Luotonen, pullapitkon muotonen",
       "Paulin taikakaulin"
-    ]
+    ],
+    "composer": "John Lennon; Paul McCartney",
+    "lyricist": "John Lennon; Paul McCartney"
   },
   {
     "id": "K04-S194",
@@ -18334,7 +18337,9 @@
       "Kellot soi (Silver Bells)",
       "Silver Bells",
       "Valot hohtaa, katu johtaa"
-    ]
+    ],
+    "composer": "Jay Livingston",
+    "lyricist": "Ray Evans"
   },
   {
     "id": "K21-S065",
@@ -19102,7 +19107,8 @@
       "Matkaan taas kuljen nyt",
       "Tien kuningas",
       "Trailer for sale or rent"
-    ]
+    ],
+    "composer": "Roger Miller"
   },
   {
     "id": "K23-S260",
@@ -23929,7 +23935,8 @@
       "L’italiano",
       "Olen suomalainen",
       "On Pohjantähden alla tää koti mulla"
-    ]
+    ],
+    "composer": "Toto Cutugno"
   },
   {
     "id": "K05-S142",
