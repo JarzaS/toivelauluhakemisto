@@ -339,7 +339,9 @@
     "aliases": [
       "Aamulla aurinko nousi",
       "Aurinko laskee länteen"
-    ]
+    ],
+    "composer": "Toivo Kärki",
+    "lyricist": "Reino Helismaa"
   },
   {
     "id": "K11-S082",
@@ -838,7 +840,9 @@
       "Landet med tusende öar och skär",
       "Saarten ja luotojen siunattu maa",
       "Ålänningens sång"
-    ]
+    ],
+    "composer": "Johan Fridolf Hagfors",
+    "lyricist": "John Grandell"
   },
   {
     "id": "K06-S022",
@@ -1424,7 +1428,9 @@
     "aliases": [
       "All Night, All Day",
       "Öin ja päivin"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "Perinteinen"
   },
   {
     "id": "K17-S238",
@@ -2192,7 +2198,9 @@
       "Keväthuumaus",
       "Rönnerdahl han skuttar",
       "Sjösala vals"
-    ]
+    ],
+    "composer": "Evert Taube",
+    "lyricist": "Palle"
   },
   {
     "id": "K18-S074",
