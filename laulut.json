@@ -359,7 +359,8 @@
     "page": 43,
     "aliases": [
       "Aamulla varhain"
-    ]
+    ],
+    "composer": "Kansansävelmä"
   },
   {
     "id": "K06-S084",
@@ -14583,7 +14584,9 @@
       "Och nu är det jul",
       "Sylvian joululaulu",
       "Sylvias julvisa"
-    ]
+    ],
+    "composer": "Karl Collan",
+    "lyricist": "Zacharias Topelius; suom. Martti Korpilahti"
   },
   {
     "id": "K13-S044",
@@ -16139,7 +16142,9 @@
       "Joulupuu on rakennettu",
       "Raska fötter springa",
       "Reippahasti käypi askelet"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "Gustaf Oskar Schöneman"
   },
   {
     "id": "K14-S056",
@@ -18669,7 +18674,9 @@
     "aliases": [
       "Kesäpäivä Kangasalla",
       "Mä oksalla ylimmällä"
-    ]
+    ],
+    "composer": "Gabriel Linsén",
+    "lyricist": "Zacharias Topelius; suom. P. J. Hannikainen"
   },
   {
     "id": "K09-S140",
@@ -19646,7 +19653,9 @@
     "aliases": [
       "Kotimaa kun taakse jäi",
       "Sininen ja valkoinen"
-    ]
+    ],
+    "composer": "Jukka Kuoppamäki",
+    "lyricist": "Jukka Kuoppamäki"
   },
   {
     "id": "K01-S056",
@@ -22207,7 +22216,9 @@
     "aliases": [
       "Lapin kesä",
       "Lapissa kaikki kukkii nopeasti"
-    ]
+    ],
+    "composer": "Perttu Hietanen; Taisto Wesslin",
+    "lyricist": "Eino Leino"
   },
   {
     "id": "K07-S164",
@@ -23479,7 +23490,9 @@
     "aliases": [
       "Lumi on jo peittänyt",
       "Varpunen jouluaamuna"
-    ]
+    ],
+    "composer": "Otto Kotilainen",
+    "lyricist": "Zacharias Topelius; suom. K. A. Hougberg"
   },
   {
     "id": "K06-S190",
@@ -27472,7 +27485,9 @@
     "page": 44,
     "aliases": [
       "Oi jouluyö"
-    ]
+    ],
+    "composer": "Adolphe Adam",
+    "lyricist": "Placide Cappeau; suom. Kyllikki Solanterä"
   },
   {
     "id": "K20-S030",
@@ -28318,7 +28333,9 @@
     "page": 41,
     "aliases": [
       "On suuri sun rantas autius"
-    ]
+    ],
+    "composer": "Kansansävelmä",
+    "lyricist": "V. A. Koskenniemi"
   },
   {
     "id": "K20-S053",
@@ -31164,7 +31181,9 @@
     "aliases": [
       "Sydämeni laulu",
       "Tuonen lehto, öinen lehto"
-    ]
+    ],
+    "composer": "Jean Sibelius",
+    "lyricist": "Aleksis Kivi"
   },
   {
     "id": "K15-S036",
