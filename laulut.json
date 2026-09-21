@@ -2271,7 +2271,9 @@
     "page": 81,
     "aliases": [
       "Arkihuolesi kaikki heitä"
-    ]
+    ],
+    "composer": "Leevi Madetoja",
+    "lyricist": "Alpo Noponen"
   },
   {
     "id": "K23-S018",
@@ -3723,7 +3725,9 @@
       "Kun sun mä näin",
       "Silmäsi odottavat minua",
       "Spanish Eyes"
-    ]
+    ],
+    "composer": "Bert Kaempfert",
+    "lyricist": "Charles Singleton; Eddie Snyder"
   },
   {
     "id": "K16-S258",
@@ -16456,7 +16460,9 @@
       "Juu, juu, kun Waterloossa",
       "My, my, at Waterloo",
       "Waterloo"
-    ]
+    ],
+    "composer": "Benny Andersson; Björn Ulvaeus",
+    "lyricist": "Stig Anderson"
   },
   {
     "id": "K18-S204",
@@ -23883,7 +23889,9 @@
       "Maamme",
       "Oi maamme, Suomi",
       "Vårt land"
-    ]
+    ],
+    "composer": "Fredrik Pacius",
+    "lyricist": "J. L. Runeberg; Paavo Cajander (suomennos)"
   },
   {
     "id": "K04-S068",
