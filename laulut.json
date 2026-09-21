@@ -3416,7 +3416,9 @@
       "In the sunlight of your smile",
       "Suloinen Maria",
       "Surusilmä auringon"
-    ]
+    ],
+    "composer": "Arne Glimcher; Robert Kraft",
+    "lyricist": "Arne Glimcher; Robert Kraft"
   },
   {
     "id": "K10-S047",
@@ -12375,7 +12377,9 @@
       "In sleep he sang to me",
       "Oopperan kummitus",
       "Phantom of the Opera, The"
-    ]
+    ],
+    "composer": "Andrew Lloyd Webber",
+    "lyricist": "Charles Hart; Richard Stilgoe"
   },
   {
     "id": "K12-S244",
@@ -12806,7 +12810,9 @@
       "Paper Roses",
       "Sua uskoin, suurta onneani vuotin",
       "Tekokukkia"
-    ]
+    ],
+    "composer": "Fred Spielman",
+    "lyricist": "Janice Torre"
   },
   {
     "id": "K06-S052",
@@ -16974,7 +16980,9 @@
     "aliases": [
       "Kaikki valvoo",
       "Nessun dorma"
-    ]
+    ],
+    "composer": "Giacomo Puccini",
+    "lyricist": "Giuseppe Adami; Renato Simoni"
   },
   {
     "id": "K20-S074",
@@ -25552,7 +25560,9 @@
       "Money makes the world go around",
       "Money Song, The",
       "Money, Money"
-    ]
+    ],
+    "composer": "John Kander",
+    "lyricist": "Fred Ebb"
   },
   {
     "id": "K21-S023",
@@ -28909,7 +28919,9 @@
     "aliases": [
       "Paloma Blanca",
       "Takaa vuorten aamu nousee"
-    ]
+    ],
+    "composer": "Hans Bouwens (George Baker)",
+    "lyricist": "Hans Bouwens (George Baker)"
   },
   {
     "id": "K20-S048",
@@ -31245,7 +31257,9 @@
     "aliases": [
       "Swing Low, Sweet Chariot",
       "Taivainen vaunu"
-    ]
+    ],
+    "composer": "Wallace Willis",
+    "lyricist": "Wallace Willis"
   },
   {
     "id": "K04-S013",
